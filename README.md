@@ -47,5 +47,96 @@ Developed an interactive dashboard connecting to the cleaned data.
 
 ---
 
-## 🎤 Presentation
-A professional **Gamma presentation** was created to visually narrate the pipeline, insights, and outcomes, ensuring clarity and polish for stakeholders.
+# 🏥 Business Insights & Strategic Analytics Report  
+
+## 📌 Executive Summary  
+A comprehensive analysis of recent **hospital admissions, billing records, and departmental workflows** reveals significant opportunities to:  
+- ⚡ Optimize resource allocation  
+- 💰 Accelerate revenue cycles  
+- 📊 Transform anomalous operational data into structured metrics  
+
+Key findings include:  
+- 🚨 Bottlenecks in patient recovery times  
+- 💳 Heavy dependencies on specific insurance payers  
+- 🔄 High-frequency readmission cohort straining hospital capacity  
+
+---
+
+## 🔧 1. Data Integrity & Pipeline Enhancements  
+The foundation of these insights stems from **rigorous data standardization**:  
+
+- 💵 **Financial Anomaly Resolution**  
+  - Removed erroneous negative billing (e.g., `-₹1,500`)  
+  - Corrected severe outliers (e.g., single `₹950,000` record)  
+  - ✅ Ensured accurate departmental revenue baselines  
+
+- 🛏️ **Automated Capacity Tracking**  
+  - Engineered **Length_Of_Stay** metric  
+  - Introduced **Is_Active_Patient** flag  
+  - 📈 Enabled real-time monitoring of bed availability & turnover  
+
+---
+
+## ⚙️ 2. Operational Efficiency & Capacity Management  
+Analysis of patient movement highlights **departmental variances**:  
+
+- 🧠 **Departmental Bottlenecks**  
+  - Oncology & Neurology show naturally higher **ALOS**  
+  - 🚩 Outliers severely exceeding departmental baselines  
+
+- 🎯 **Targeted Intervention**  
+  - Identified patients with recovery times far beyond norms  
+  - Causes:  
+    - 🕒 Delays in diagnostic lab results  
+    - 🏥 Inefficiencies in discharge planning  
+    - ⚕️ Complications requiring clinical review  
+
+---
+
+## 💵 3. Financial Health & Payer Dynamics  
+Evaluation of billing amounts reveals **cash-flow dependencies**:  
+
+- 📉 **Payer Concentration**  
+  - Heavy reliance on **LIC & HDFC Ergo**  
+  - ⚠️ Risk if payout timelines change or claims disputed  
+
+- 📊 **Departmental Revenue Ranking**  
+  - Segmented & ranked average billing per department  
+  - 🔑 Insight: High-revenue departments need proportional investment  
+
+---
+
+## 🧑‍⚕️ 4. Patient Behavior & Quality of Care  
+Historical tracking uncovered strain on emergency & inpatient resources:  
+
+- 🔄 **Frequent Flyer Cohort**  
+  - Subset of patients admitted **2+ times in 6 months**  
+  - Others exceeding **3 visits in a year**  
+
+- 🩺 **Root Cause Indicators**  
+  - Inadequate outpatient follow-up  
+  - Premature discharges  
+  - Poor chronic condition management  
+
+---
+
+## 🚀 Strategic Recommendations  
+
+- 🩺 **Readmission Intervention Protocol**  
+  - Deploy care coordinators for high-frequency patients  
+  - Transition to outpatient management / telehealth monitoring  
+
+- ⏰ **Automated ALOS Alerts**  
+  - Daily dashboard flags patients exceeding departmental ALOS by **15%**  
+  - Triggers mandatory multi-disciplinary review  
+
+- 💳 **Diversify Payer Strategies**  
+  - Fast-track claims for LIC & HDFC Ergo  
+  - Explore marketing to attract underrepresented, high-paying networks  
+
+- 📋 **Standardize Discharge Criteria**  
+  - Audit high-variance departments  
+  - Ensure physicians use **data-backed milestones** for patient release  
+
+---
+
