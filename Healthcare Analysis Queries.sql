@@ -1,5 +1,6 @@
--- Selecting columns from the table
+**Selecting columns from the table**
 SELECT * FROM Cleaned_Healthcare_Analysis limit 10;
+
 |Patient_Id|Patient_Name|Admission_Date|Department|Diagnosis_Code|Doctor_Assigned|Insurance_Provider|Billing_Amount|Vitals_Status|Discharge_Date|Is_Active_Patient|Length_Of_Stay|
 |----------|------------|--------------|----------|--------------|---------------|------------------|--------------|-------------|--------------|-----------------|--------------|
 |1075|Sanjay Viswanathan|2025-08-05|Oncology|E11.9|Dr. Vikram|LIC|21854.31|Stable|2025-08-17|No|12|
