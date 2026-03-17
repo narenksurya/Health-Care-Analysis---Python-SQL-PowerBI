@@ -1,0 +1,373 @@
+-- Selecting columns from the table
+
+SELECT * FROM Cleaned_Healthcare_Analysis limit 10;
+
+-- OUTPUT
+|Patient_Id|Patient_Name|Admission_Date|Department|Diagnosis_Code|Doctor_Assigned|Insurance_Provider|Billing_Amount|Vitals_Status|Discharge_Date|Is_Active_Patient|Length_Of_Stay|
+|----------|------------|--------------|----------|--------------|---------------|------------------|--------------|-------------|--------------|-----------------|--------------|
+|1075|Sanjay Viswanathan|2025-08-05|Oncology|E11.9|Dr. Vikram|LIC|21854.31|Stable|2025-08-17|No|12|
+|1002|Anitha Raj|2025-03-05|Neurology|E11.9|Dr. Rajesh|LIC|47782.14|Pending Assessment|2025-03-19|No|14|
+|1021|Karthik Raja|2025-04-08|Neurology|C34.9|Dr. Shalini|LIC|37939.73|Stable|2025-04-16|No|8|
+|1010|Karthik Raja|2025-05-26|Cardiology|J45.9|Dr. Shalini|HDFC Ergo|31939.63|Stable|2025-05-29|No|3|
+|1016|Karthik Raja|2025-02-26|Pediatrics|G40.9|Dr. Vikram|LIC|12020.84|Recovering|2025-03-06|No|8|
+|1065|Sanjay Viswanathan|2025-10-11|Cardiology|I21.9|Dr. Rajesh|Out-of-Pocket|7613.76|Stable|2025-10-12|No|1|
+|1071|Rohan Gupta|2025-01-11|Cardiology|J45.9|Dr. Murugan|Star Health|43977.93|Recovering|2025-01-18|No|7|
+|1014|Deepa Nair|2025-10-05|Cardiology|G40.9|Dr. Shalini|HDFC Ergo|32050.18|Stable|2025-10-10|No|5|
+|1012|Vijay Sethupathi|2025-01-04|Neurology|J45.9|Dr. Aditi|Star Health|36863.27|Recovering|2025-01-10|No|6|
+|1002|Priya Sharma|2025-01-29|Pediatrics|I21.9|Dr. Rajesh|Out-of-Pocket|950000.0|Recovering|2025-02-04|No|6|
+    
+__________________________________________________________________________________________________________________________
+-- Counting Active patients in the hospital
+    
+WITH active AS
+(SELECT Patient_Id FROM Cleaned_Healthcare_Analysis WHERE Is_Active_Patient = 'Yes')
+SELECT COUNT(Patient_Id) as Active_Patients FROM active;
+
+-- OUTPUT
+|Active_Patients|
+|---------------|
+|100|
+
+__________________________________________________________________________________________________________________________
+-- Insurance Provider with Highest Billing Amount
+    
+SELECT Insurance_Provider, SUM(Billing_Amount) FROM Cleaned_Healthcare_Analysis
+GROUP BY Insurance_Provider
+ORDER BY SUM(Billing_Amount) DESC;
+
+--OUTPUT
+|Insurance_Provider|SUM(Billing_Amount)|
+|------------------|-------------------|
+|Out-of-Pocket|8326912.1|
+|LIC|7104423.19|
+|HDFC Ergo|6559928.99|
+|Star Health|6068062.67|
+
+__________________________________________________________________________________________________________________________
+-- Patients admitted more than twice in the last 6 months
+
+SELECT Patient_Id
+FROM Cleaned_Healthcare_Analysis
+WHERE DATE(Admission_Date) >= DATE('now', '-6 months')
+GROUP BY Patient_Id
+HAVING COUNT(Patient_Id) > 2;
+
+--OUTPUT
+|Patient_Id|
+|----------|
+|1000|
+|1001|
+|1003|
+|1004|
+|1005|
+|1007|
+|1008|
+|1010|
+|1013|
+|1014|
+|1015|
+|1016|
+|1021|
+|1022|
+|1025|
+|1028|
+|1029|
+|1031|
+|1034|
+|1035|
+|1036|
+|1037|
+|1039|
+|1040|
+|1041|
+|1048|
+|1049|
+|1050|
+|1052|
+|1053|
+|1054|
+|1057|
+|1058|
+|1061|
+|1062|
+|1063|
+|1064|
+|1065|
+|1066|
+|1068|
+|1069|
+|1070|
+|1071|
+|1072|
+|1073|
+|1075|
+|1076|
+|1077|
+|1078|
+|1079|
+|1080|
+|1081|
+|1084|
+|1085|
+|1089|
+|1091|
+|1093|
+|1094|
+|1097|
+|1098|
+|1099|
+
+__________________________________________________________________________________________________________________________
+-- Patients higher than the average recovery time per department
+    
+WITH CTE AS
+(
+    SELECT Department, ROUND(AVG(Length_Of_Stay), 2) AS Avg_Recovery_Time
+    FROM Cleaned_Healthcare_Analysis
+    GROUP BY Department
+)
+SELECT c.Patient_Id, c.Patient_Name, c.Department, d.Avg_Recovery_Time, c.Length_Of_Stay as Recovery_Time
+FROM Cleaned_Healthcare_Analysis AS c
+JOIN CTE AS d
+ON c.Department = d.Department
+WHERE c.Length_Of_Stay > d.Avg_Recovery_Time
+ORDER BY c.Department, Recovery_Time DESC;
+
+--OUTPUT
+|Patient_Id|Patient_Name|Department|Avg_Recovery_Time|Recovery_Time|
+|----------|------------|----------|-----------------|-------------|
+|1057|Sanjay Viswanathan|Cardiology|39.78|417|
+|1025|Meera Krishnan|Cardiology|39.78|404|
+|1042|Priya Sharma|Cardiology|39.78|386|
+|1031|Rohan Gupta|Cardiology|39.78|380|
+|1022|Sanjay Viswanathan|Cardiology|39.78|377|
+|1100|Vijay Sethupathi|Cardiology|39.78|361|
+|1035|Arun Kumar|Cardiology|39.78|346|
+|1095|Priya Sharma|Cardiology|39.78|325|
+|1009|Karthik Raja|Cardiology|39.78|319|
+|1099|Anitha Raj|Cardiology|39.78|306|
+|1093|Meera Krishnan|Cardiology|39.78|298|
+|1073|Priya Sharma|Cardiology|39.78|290|
+|1065|Sneha Kapoor|Cardiology|39.78|284|
+|1033|Arun Kumar|Cardiology|39.78|269|
+|1079|Vijay Sethupathi|Cardiology|39.78|248|
+|1045|Deepa Nair|Cardiology|39.78|247|
+|1073|Vijay Sethupathi|Cardiology|39.78|207|
+|1077|Anitha Raj|Cardiology|39.78|183|
+|1000|Arun Kumar|Cardiology|39.78|180|
+|1062|Karthik Raja|Cardiology|39.78|175|
+|1085|Deepa Nair|Cardiology|39.78|161|
+|1022|Priya Sharma|Cardiology|39.78|117|
+|1094|Meera Krishnan|Cardiology|39.78|113|
+|1057|Anitha Raj|Cardiology|39.78|110|
+|1031|Sneha Kapoor|Cardiology|39.78|102|
+|1005|Deepa Nair|Cardiology|39.78|98|
+|1006|Rohan Gupta|Cardiology|39.78|93|
+|1078|Meera Krishnan|Cardiology|39.78|92|
+|1017|Sneha Kapoor|Cardiology|39.78|75|
+|1036|Karthik Raja|Cardiology|39.78|74|
+|1081|Karthik Raja|ER|26.71|402|
+|1078|Sneha Kapoor|ER|26.71|386|
+|1038|Vijay Sethupathi|ER|26.71|368|
+|1068|Arun Kumar|ER|26.71|332|
+|1076|Anitha Raj|ER|26.71|277|
+|1014|Priya Sharma|ER|26.71|250|
+|1013|Anitha Raj|ER|26.71|220|
+|1014|Sanjay Viswanathan|ER|26.71|209|
+|1075|Rohan Gupta|ER|26.71|194|
+|1058|Karthik Raja|ER|26.71|194|
+|1001|Priya Sharma|ER|26.71|181|
+|1008|Priya Sharma|ER|26.71|176|
+|1062|Arun Kumar|ER|26.71|164|
+|1089|Rohan Gupta|ER|26.71|109|
+|1065|Meera Krishnan|ER|26.71|104|
+|1057|Anitha Raj|ER|26.71|99|
+|1041|Meera Krishnan|ER|26.71|96|
+|1016|Rohan Gupta|ER|26.71|87|
+|1035|Meera Krishnan|Neurology|20.23|387|
+|1090|Sneha Kapoor|Neurology|20.23|354|
+|1087|Rohan Gupta|Neurology|20.23|288|
+|1007|Priya Sharma|Neurology|20.23|264|
+|1091|Deepa Nair|Neurology|20.23|248|
+|1043|Rohan Gupta|Neurology|20.23|234|
+|1014|Rohan Gupta|Neurology|20.23|200|
+|1040|Karthik Raja|Neurology|20.23|154|
+|1066|Sanjay Viswanathan|Neurology|20.23|151|
+|1052|Sanjay Viswanathan|Neurology|20.23|103|
+|1048|Arun Kumar|Neurology|20.23|78|
+|1030|Anitha Raj|Oncology|35.86|427|
+|1009|Karthik Raja|Oncology|35.86|414|
+|1071|Anitha Raj|Oncology|35.86|395|
+|1009|Karthik Raja|Oncology|35.86|395|
+|1022|Arun Kumar|Oncology|35.86|356|
+|1019|Karthik Raja|Oncology|35.86|342|
+|1023|Sanjay Viswanathan|Oncology|35.86|338|
+|1081|Karthik Raja|Oncology|35.86|334|
+|1084|Meera Krishnan|Oncology|35.86|307|
+|1038|Karthik Raja|Oncology|35.86|257|
+|1087|Sanjay Viswanathan|Oncology|35.86|241|
+|1044|Anitha Raj|Oncology|35.86|238|
+|1043|Vijay Sethupathi|Oncology|35.86|236|
+|1047|Sanjay Viswanathan|Oncology|35.86|223|
+|1090|Sanjay Viswanathan|Oncology|35.86|215|
+|1074|Deepa Nair|Oncology|35.86|209|
+|1052|Priya Sharma|Oncology|35.86|203|
+|1083|Vijay Sethupathi|Oncology|35.86|190|
+|1034|Meera Krishnan|Oncology|35.86|178|
+|1084|Vijay Sethupathi|Oncology|35.86|151|
+|1055|Karthik Raja|Oncology|35.86|115|
+|1070|Vijay Sethupathi|Oncology|35.86|106|
+|1039|Sanjay Viswanathan|Oncology|35.86|84|
+|1052|Sneha Kapoor|Oncology|35.86|79|
+|1044|Vijay Sethupathi|Pediatrics|29.1|416|
+|1050|Anitha Raj|Pediatrics|29.1|405|
+|1092|Deepa Nair|Pediatrics|29.1|402|
+|1093|Sanjay Viswanathan|Pediatrics|29.1|372|
+|1006|Anitha Raj|Pediatrics|29.1|371|
+|1098|Meera Krishnan|Pediatrics|29.1|331|
+|1063|Sneha Kapoor|Pediatrics|29.1|324|
+|1066|Arun Kumar|Pediatrics|29.1|284|
+|1025|Rohan Gupta|Pediatrics|29.1|259|
+|1012|Sneha Kapoor|Pediatrics|29.1|208|
+|1033|Deepa Nair|Pediatrics|29.1|204|
+|1005|Priya Sharma|Pediatrics|29.1|183|
+|1070|Vijay Sethupathi|Pediatrics|29.1|165|
+|1052|Meera Krishnan|Pediatrics|29.1|120|
+|1000|Rohan Gupta|Pediatrics|29.1|118|
+|1035|Karthik Raja|Pediatrics|29.1|82|
+|1023|Sneha Kapoor|Pediatrics|29.1|76|
+
+__________________________________________________________________________________________________________________________
+-- Patients visited more than 3 times in the last year
+    
+SELECT Patient_Id, Patient_Name
+FROM Cleaned_Healthcare_Analysis cha
+WHERE DATE(Admission_Date) >= DATE('now', '-12 months')
+GROUP BY Patient_Id
+HAVING COUNT(Patient_Id) > 3;
+
+--OUTPUT
+|Patient_Id|Patient_Name|
+|----------|------------|
+|1000|Meera Krishnan|
+|1001|Priya Sharma|
+|1003|Deepa Nair|
+|1004|Vijay Sethupathi|
+|1005|Anitha Raj|
+|1006|Sneha Kapoor|
+|1007|Priya Sharma|
+|1008|Priya Sharma|
+|1009|Arun Kumar|
+|1010|Karthik Raja|
+|1011|Priya Sharma|
+|1012|Sanjay Viswanathan|
+|1013|Sneha Kapoor|
+|1014|Deepa Nair|
+|1015|Sneha Kapoor|
+|1016|Sanjay Viswanathan|
+|1017|Sneha Kapoor|
+|1018|Anitha Raj|
+|1019|Karthik Raja|
+|1020|Sneha Kapoor|
+|1021|Karthik Raja|
+|1022|Priya Sharma|
+|1023|Rohan Gupta|
+|1025|Rohan Gupta|
+|1026|Sanjay Viswanathan|
+|1027|Arun Kumar|
+|1028|Arun Kumar|
+|1029|Deepa Nair|
+|1030|Priya Sharma|
+|1031|Vijay Sethupathi|
+|1032|Vijay Sethupathi|
+|1033|Sanjay Viswanathan|
+|1034|Meera Krishnan|
+|1035|Meera Krishnan|
+|1036|Rohan Gupta|
+|1037|Deepa Nair|
+|1038|Karthik Raja|
+|1039|Sanjay Viswanathan|
+|1040|Anitha Raj|
+|1041|Deepa Nair|
+|1043|Rohan Gupta|
+|1044|Arun Kumar|
+|1045|Rohan Gupta|
+|1046|Vijay Sethupathi|
+|1047|Sanjay Viswanathan|
+|1048|Anitha Raj|
+|1049|Karthik Raja|
+|1050|Priya Sharma|
+|1051|Arun Kumar|
+|1052|Sneha Kapoor|
+|1053|Deepa Nair|
+|1054|Vijay Sethupathi|
+|1055|Vijay Sethupathi|
+|1056|Priya Sharma|
+|1057|Anitha Raj|
+|1058|Priya Sharma|
+|1059|Deepa Nair|
+|1060|Deepa Nair|
+|1061|Sneha Kapoor|
+|1062|Anitha Raj|
+|1063|Priya Sharma|
+|1064|Deepa Nair|
+|1065|Sanjay Viswanathan|
+|1066|Sneha Kapoor|
+|1067|Sneha Kapoor|
+|1068|Karthik Raja|
+|1069|Sanjay Viswanathan|
+|1070|Meera Krishnan|
+|1071|Arun Kumar|
+|1072|Vijay Sethupathi|
+|1073|Priya Sharma|
+|1074|Deepa Nair|
+|1075|Sanjay Viswanathan|
+|1076|Arun Kumar|
+|1077|Deepa Nair|
+|1078|Deepa Nair|
+|1079|Anitha Raj|
+|1080|Priya Sharma|
+|1081|Karthik Raja|
+|1082|Deepa Nair|
+|1083|Anitha Raj|
+|1084|Arun Kumar|
+|1085|Arun Kumar|
+|1086|Arun Kumar|
+|1087|Karthik Raja|
+|1088|Karthik Raja|
+|1089|Anitha Raj|
+|1090|Sanjay Viswanathan|
+|1091|Anitha Raj|
+|1093|Rohan Gupta|
+|1094|Sneha Kapoor|
+|1095|Arun Kumar|
+|1096|Karthik Raja|
+|1097|Vijay Sethupathi|
+|1098|Deepa Nair|
+|1099|Sanjay Viswanathan|
+|1100|Vijay Sethupathi|
+
+__________________________________________________________________________________________________________________________
+-- Ranking departments by average billing
+WITH DeptBilling AS (
+    SELECT 
+        Department, 
+        ROUND(AVG(Billing_Amount), 2) AS Average_Billing
+    FROM Cleaned_Healthcare_Analysis
+    GROUP BY Department
+)
+SELECT 
+    Department, 
+    Average_Billing,
+    RANK() OVER (ORDER BY Average_Billing DESC) AS Billing_Rank
+FROM DeptBilling;
+
+--OUTPUT
+|Department|Average_Billing|Billing_Rank|
+|----------|---------------|------------|
+|Pediatrics|31294.84|1|
+|Cardiology|27775.25|2|
+|Oncology|27342.81|3|
+|Neurology|26908.05|4|
+|ER|26779.88|5|
+__________________________________________________________________________________________________________________________
