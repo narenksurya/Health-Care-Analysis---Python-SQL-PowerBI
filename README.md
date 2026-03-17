@@ -3,7 +3,6 @@
 ## 📌 Overview
 This project demonstrates a complete data analytics pipeline using **Python**, **SQL**, and **Power BI**.  
 The goal was to transform raw, anomalous hospital data into a clean, queryable format to extract business intelligence regarding **patient length of stay**, **departmental performance**, and **insurance billing trends**.  
-✨ Additionally, I created a polished **presentation using Gamma** to showcase the findings in a professional format.
 
 ---
 
