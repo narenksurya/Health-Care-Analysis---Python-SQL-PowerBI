@@ -1,0 +1,1003 @@
+Patient_Id,Patient_Name,Admission_Date,Department,Diagnosis_Code,Doctor_Assigned,Insurance_Provider,Billing_Amount,Vitals_Status,Discharge_Date,Is_Active_Patient,Length_Of_Stay
+1075,Sanjay Viswanathan,2025-08-05,Oncology,E11.9,Dr. Vikram,LIC,21854.31,Stable,2025-08-17,No,12
+1002,Anitha Raj,2025-03-05,Neurology,E11.9,Dr. Rajesh,LIC,47782.14,Pending Assessment,2025-03-19,No,14
+1021,Karthik Raja,2025-04-08,Neurology,C34.9,Dr. Shalini,LIC,37939.73,Stable,2025-04-16,No,8
+1010,Karthik Raja,2025-05-26,Cardiology,J45.9,Dr. Shalini,HDFC Ergo,31939.63,Stable,2025-05-29,No,3
+1016,Karthik Raja,2025-02-26,Pediatrics,G40.9,Dr. Vikram,LIC,12020.84,Recovering,2025-03-06,No,8
+1065,Sanjay Viswanathan,2025-10-11,Cardiology,I21.9,Dr. Rajesh,Out-of-Pocket,7613.76,Stable,2025-10-12,No,1
+1071,Rohan Gupta,2025-01-11,Cardiology,J45.9,Dr. Murugan,Star Health,43977.93,Recovering,2025-01-18,No,7
+1014,Deepa Nair,2025-10-05,Cardiology,G40.9,Dr. Shalini,HDFC Ergo,32050.18,Stable,2025-10-10,No,5
+1012,Vijay Sethupathi,2025-01-04,Neurology,J45.9,Dr. Aditi,Star Health,36863.27,Recovering,2025-01-10,No,6
+1002,Priya Sharma,2025-01-29,Pediatrics,I21.9,Dr. Rajesh,Out-of-Pocket,950000.0,Recovering,2025-02-04,No,6
+1050,Priya Sharma,2025-12-07,Cardiology,E11.9,Dr. Vikram,LIC,48645.94,Stable,2025-12-15,No,8
+1040,Anitha Raj,2025-05-24,Pediatrics,G40.9,Dr. Aditi,Star Health,42459.92,Critical,2025-06-02,No,9
+1034,Meera Krishnan,2025-04-20,Cardiology,C34.9,Dr. Vikram,HDFC Ergo,14555.26,Stable,2025-04-22,No,2
+1032,Vijay Sethupathi,2025-03-21,Cardiology,I21.9,Dr. Rajesh,Out-of-Pocket,13182.12,Stable,2025-03-30,No,9
+1095,Arun Kumar,2025-08-20,Neurology,I21.9,Dr. Aditi,HDFC Ergo,13253.2,Critical,2025-09-01,No,12
+1007,Priya Sharma,2025-08-23,Cardiology,G40.9,Dr. Murugan,Star Health,18690.9,Stable,2025-09-03,No,11
+1074,Deepa Nair,2025-08-19,Oncology,J45.9,Dr. Murugan,LIC,28614.04,Stable,,Yes,209
+1089,Anitha Raj,2025-04-02,ER,G40.9,Dr. Shalini,Star Health,24437.53,Critical,2025-04-11,No,9
+1010,Karthik Raja,2025-08-26,ER,C34.9,Dr. Murugan,Star Health,18105.31,Stable,2025-09-08,No,13
+1058,Priya Sharma,2025-11-23,Oncology,G40.9,Dr. Murugan,Star Health,32533.38,Critical,2025-12-03,No,10
+1006,Sneha Kapoor,2025-05-02,Neurology,C34.9,Dr. Aditi,Star Health,11277.22,Critical,2025-05-12,No,10
+1085,Arun Kumar,2025-12-25,Pediatrics,I21.9,Dr. Rajesh,Out-of-Pocket,18146.51,Stable,2026-01-01,No,7
+1043,Vijay Sethupathi,2025-03-11,ER,J45.9,Dr. Aditi,LIC,21486.28,Critical,2025-03-12,No,1
+1038,Sneha Kapoor,2025-01-17,Cardiology,J45.9,Dr. Aditi,LIC,25523.15,Recovering,2025-01-24,No,7
+1091,Anitha Raj,2025-09-20,Pediatrics,J45.9,Dr. Rajesh,LIC,40332.92,Critical,2025-09-30,No,10
+1086,Priya Sharma,2025-02-13,Neurology,G40.9,Dr. Vikram,Star Health,13985.32,Recovering,2025-02-18,No,5
+1000,Meera Krishnan,2025-12-18,Cardiology,G40.9,Dr. Vikram,Out-of-Pocket,28140.55,Critical,2025-12-24,No,6
+1087,Karthik Raja,2025-02-25,Oncology,J45.9,Dr. Rajesh,Out-of-Pocket,31658.66,Stable,2025-03-07,No,10
+1062,Anitha Raj,2025-07-26,ER,C34.9,Dr. Shalini,Star Health,7090.27,Recovering,2025-08-02,No,7
+1077,Deepa Nair,2025-11-02,ER,G40.9,Dr. Shalini,Out-of-Pocket,32339.52,Stable,2025-11-16,No,14
+1029,Deepa Nair,2025-06-17,Pediatrics,G40.9,Dr. Aditi,HDFC Ergo,12673.59,Pending Assessment,2025-06-22,No,5
+1020,Sneha Kapoor,2025-07-08,Neurology,G40.9,Dr. Murugan,HDFC Ergo,7927.32,Recovering,2025-07-15,No,7
+1014,Deepa Nair,2025-09-26,ER,J45.9,Dr. Shalini,LIC,47699.85,Stable,2025-10-05,No,9
+1067,Deepa Nair,2025-01-19,Pediatrics,E11.9,Dr. Murugan,Out-of-Pocket,48453.44,Stable,2025-01-22,No,3
+1095,Sneha Kapoor,2025-07-02,Cardiology,E11.9,Dr. Murugan,LIC,41377.88,Stable,2025-07-10,No,8
+1001,Priya Sharma,2025-09-16,ER,J45.9,Dr. Rajesh,Star Health,18707.62,Critical,,Yes,181
+1087,Karthik Raja,2025-01-16,ER,G40.9,Dr. Aditi,Star Health,9395.25,Recovering,2025-01-27,No,11
+1097,Vijay Sethupathi,2025-09-19,Cardiology,E11.9,Dr. Rajesh,HDFC Ergo,35790.49,Stable,2025-09-26,No,7
+1076,Arun Kumar,2025-12-02,ER,I21.9,Dr. Rajesh,LIC,24806.86,Critical,2025-12-15,No,13
+1095,Sanjay Viswanathan,2025-01-27,Oncology,G40.9,Dr. Murugan,LIC,10491.72,Critical,2025-01-29,No,2
+1097,Rohan Gupta,2025-01-25,ER,C34.9,Dr. Murugan,Star Health,27282.96,Pending Assessment,2025-02-08,No,14
+1031,Vijay Sethupathi,2025-11-11,Neurology,G40.9,Dr. Rajesh,Star Health,6547.48,Recovering,2025-11-15,No,4
+1049,Meera Krishnan,2025-01-11,Neurology,G40.9,Dr. Rajesh,Star Health,45919.42,Recovering,2025-01-18,No,7
+1050,Anitha Raj,2025-02-04,Pediatrics,E11.9,Dr. Aditi,LIC,16645.1,Critical,,Yes,405
+1012,Sanjay Viswanathan,2025-03-28,Pediatrics,J45.9,Dr. Murugan,Out-of-Pocket,34813.5,Critical,2025-03-30,No,2
+1013,Sneha Kapoor,2025-07-14,Neurology,G40.9,Dr. Shalini,Out-of-Pocket,19027.0,Stable,2025-07-25,No,11
+1073,Priya Sharma,2025-05-30,Cardiology,C34.9,Dr. Vikram,LIC,28403.06,Stable,,Yes,290
+1011,Priya Sharma,2025-04-27,Neurology,J45.9,Dr. Aditi,LIC,29601.96,Recovering,2025-05-04,No,7
+1087,Karthik Raja,2025-09-19,Oncology,G40.9,Dr. Murugan,Out-of-Pocket,13318.45,Stable,2025-09-20,No,1
+1056,Priya Sharma,2025-07-06,Neurology,C34.9,Dr. Vikram,LIC,48631.31,Stable,2025-07-20,No,14
+1073,Vijay Sethupathi,2025-08-21,Cardiology,I21.9,Dr. Rajesh,LIC,39880.98,Stable,,Yes,207
+1038,Karthik Raja,2025-07-02,Oncology,E11.9,Dr. Shalini,Out-of-Pocket,47277.45,Recovering,,Yes,257
+1045,Deepa Nair,2025-01-10,Neurology,I21.9,Dr. Shalini,LIC,45267.23,Critical,2025-01-22,No,12
+1095,Anitha Raj,2025-09-23,Cardiology,J45.9,Dr. Murugan,Star Health,31905.5,Recovering,2025-10-05,No,12
+1029,Meera Krishnan,2025-12-14,Oncology,I21.9,Dr. Shalini,LIC,46484.34,Critical,2025-12-27,No,13
+1078,Deepa Nair,2025-05-23,Cardiology,J45.9,Dr. Vikram,Star Health,8982.16,Recovering,2025-05-25,No,2
+1036,Rohan Gupta,2025-10-30,Pediatrics,C34.9,Dr. Shalini,HDFC Ergo,13819.23,Stable,2025-11-02,No,3
+1023,Rohan Gupta,2025-08-18,Oncology,I21.9,Dr. Murugan,Out-of-Pocket,7035.23,Stable,2025-08-23,No,5
+1068,Karthik Raja,2025-06-27,ER,J45.9,Dr. Murugan,HDFC Ergo,19639.86,Recovering,2025-07-08,No,11
+1037,Sneha Kapoor,2025-03-04,ER,C34.9,Dr. Rajesh,Out-of-Pocket,22490.48,Critical,2025-03-12,No,8
+1000,Arun Kumar,2025-09-17,Cardiology,J45.9,Dr. Murugan,LIC,17210.71,Stable,,Yes,180
+1003,Deepa Nair,2025-12-07,Neurology,G40.9,Dr. Vikram,HDFC Ergo,42293.19,Stable,2025-12-14,No,7
+1008,Priya Sharma,2025-09-21,ER,E11.9,Dr. Vikram,LIC,21053.9,Stable,,Yes,176
+1011,Sanjay Viswanathan,2025-09-09,Cardiology,J45.9,Dr. Vikram,HDFC Ergo,17642.05,Stable,2025-09-21,No,12
+1096,Karthik Raja,2025-07-13,Oncology,I21.9,Dr. Aditi,Star Health,29421.32,Critical,2025-07-20,No,7
+1047,Sanjay Viswanathan,2025-08-05,Pediatrics,G40.9,Dr. Murugan,Star Health,11341.59,Stable,2025-08-13,No,8
+1096,Priya Sharma,2025-08-23,Cardiology,I21.9,Dr. Shalini,Out-of-Pocket,41098.86,Stable,2025-08-24,No,1
+1083,Anitha Raj,2025-09-05,Pediatrics,J45.9,Dr. Rajesh,LIC,8354.78,Critical,2025-09-09,No,4
+1055,Meera Krishnan,2025-03-09,Neurology,I21.9,Dr. Shalini,HDFC Ergo,49409.91,Critical,2025-03-22,No,13
+1056,Meera Krishnan,2025-10-21,Cardiology,J45.9,Dr. Shalini,Star Health,39751.01,Critical,2025-10-27,No,6
+1076,Vijay Sethupathi,2025-09-12,Pediatrics,I21.9,Dr. Rajesh,Star Health,13942.21,Pending Assessment,2025-09-21,No,9
+1030,Deepa Nair,2025-01-31,Cardiology,G40.9,Dr. Vikram,Out-of-Pocket,5248.5,Recovering,2025-02-13,No,13
+1077,Meera Krishnan,2025-02-18,Pediatrics,J45.9,Dr. Shalini,HDFC Ergo,41695.76,Stable,2025-02-20,No,2
+1047,Rohan Gupta,2025-03-19,Pediatrics,E11.9,Dr. Shalini,Star Health,36808.58,Critical,2025-03-20,No,1
+1084,Arun Kumar,2025-08-25,Oncology,J45.9,Dr. Rajesh,Out-of-Pocket,37805.32,Stable,2025-09-07,No,13
+1015,Sanjay Viswanathan,2025-01-02,Pediatrics,E11.9,Dr. Vikram,Out-of-Pocket,39707.17,Stable,2025-01-12,No,10
+1066,Sneha Kapoor,2025-11-02,Pediatrics,I21.9,Dr. Murugan,HDFC Ergo,8332.01,Recovering,2025-11-14,No,12
+1026,Sneha Kapoor,2025-01-04,Pediatrics,C34.9,Dr. Aditi,LIC,21130.96,Stable,2025-01-18,No,14
+1005,Anitha Raj,2025-09-18,Cardiology,I21.9,Dr. Vikram,HDFC Ergo,10214.11,Stable,2025-09-20,No,2
+1084,Priya Sharma,2025-10-13,Pediatrics,E11.9,Dr. Vikram,LIC,43839.65,Critical,2025-10-20,No,7
+1034,Sanjay Viswanathan,2025-04-01,Neurology,J45.9,Dr. Aditi,LIC,33048.42,Stable,2025-04-04,No,3
+1047,Deepa Nair,2025-07-14,Neurology,I21.9,Dr. Rajesh,HDFC Ergo,19890.41,Critical,2025-07-24,No,10
+1008,Sneha Kapoor,2025-09-28,Cardiology,G40.9,Dr. Murugan,LIC,7860.13,Critical,2025-09-30,No,2
+1064,Arun Kumar,2025-03-15,Neurology,C34.9,Dr. Aditi,Star Health,18994.2,Stable,2025-03-29,No,14
+1087,Vijay Sethupathi,2025-07-11,Neurology,J45.9,Dr. Shalini,HDFC Ergo,19633.25,Critical,2025-07-22,No,11
+1049,Karthik Raja,2025-11-02,Cardiology,J45.9,Dr. Rajesh,HDFC Ergo,37832.28,Stable,2025-11-09,No,7
+1079,Anitha Raj,2025-04-20,ER,G40.9,Dr. Murugan,HDFC Ergo,33690.09,Critical,2025-05-03,No,13
+1071,Deepa Nair,2025-01-06,Cardiology,E11.9,Dr. Aditi,LIC,44924.57,Critical,2025-01-19,No,13
+1008,Rohan Gupta,2025-11-03,Neurology,C34.9,Dr. Rajesh,HDFC Ergo,26249.67,Recovering,2025-11-05,No,2
+1006,Meera Krishnan,2025-01-08,Oncology,I21.9,Dr. Shalini,Out-of-Pocket,10381.74,Stable,2025-01-11,No,3
+1034,Meera Krishnan,2025-09-09,Neurology,I21.9,Dr. Vikram,Star Health,37096.02,Critical,2025-09-20,No,11
+1040,Karthik Raja,2025-10-13,Neurology,C34.9,Dr. Rajesh,LIC,39235.33,Critical,,Yes,154
+1008,Karthik Raja,2025-07-20,Oncology,J45.9,Dr. Aditi,Star Health,30257.47,Stable,2025-08-03,No,14
+1098,Deepa Nair,2025-09-25,Pediatrics,G40.9,Dr. Shalini,HDFC Ergo,39693.52,Pending Assessment,2025-09-29,No,4
+1031,Rohan Gupta,2025-03-01,Cardiology,I21.9,Dr. Vikram,Out-of-Pocket,27220.8,Recovering,,Yes,380
+1029,Priya Sharma,2025-03-14,Neurology,E11.9,Dr. Murugan,Out-of-Pocket,28522.98,Pending Assessment,2025-03-28,No,14
+1034,Rohan Gupta,2025-01-29,Oncology,J45.9,Dr. Shalini,HDFC Ergo,24239.35,Critical,2025-01-30,No,1
+1041,Deepa Nair,2025-07-31,Cardiology,G40.9,Dr. Murugan,LIC,6143.86,Critical,2025-08-13,No,13
+1075,Rohan Gupta,2025-10-12,Neurology,G40.9,Dr. Shalini,Star Health,9855.11,Critical,2025-10-26,No,14
+1027,Arun Kumar,2025-08-29,Cardiology,I21.9,Dr. Murugan,Out-of-Pocket,6414.31,Stable,2025-09-03,No,5
+1020,Meera Krishnan,2025-12-09,Cardiology,E11.9,Dr. Aditi,Out-of-Pocket,33638.47,Stable,2025-12-21,No,12
+1044,Vijay Sethupathi,2025-01-24,Pediatrics,C34.9,Dr. Vikram,Out-of-Pocket,19146.02,Critical,,Yes,416
+1007,Anitha Raj,2025-11-13,Neurology,E11.9,Dr. Shalini,LIC,27885.68,Stable,2025-11-21,No,8
+1089,Arun Kumar,2026-01-01,Cardiology,E11.9,Dr. Shalini,HDFC Ergo,45840.49,Recovering,2026-01-13,No,12
+1041,Deepa Nair,2025-11-06,Cardiology,I21.9,Dr. Rajesh,HDFC Ergo,16218.15,Critical,2025-11-15,No,9
+1006,Karthik Raja,2025-01-27,ER,I21.9,Dr. Rajesh,Out-of-Pocket,23467.23,Critical,2025-02-06,No,10
+1056,Karthik Raja,2025-04-05,Neurology,G40.9,Dr. Aditi,Out-of-Pocket,38999.8,Stable,2025-04-19,No,14
+1003,Meera Krishnan,2025-05-18,Oncology,G40.9,Dr. Shalini,Star Health,15295.92,Recovering,2025-05-27,No,9
+1073,Sneha Kapoor,2025-09-29,Cardiology,J45.9,Dr. Shalini,LIC,8464.1,Stable,2025-10-06,No,7
+1011,Sanjay Viswanathan,2025-03-09,Oncology,G40.9,Dr. Murugan,HDFC Ergo,18038.82,Stable,2025-03-13,No,4
+1086,Arun Kumar,2025-10-28,Pediatrics,G40.9,Dr. Murugan,Out-of-Pocket,12254.96,Critical,2025-11-02,No,5
+1003,Karthik Raja,2025-09-25,Cardiology,J45.9,Dr. Vikram,LIC,46836.39,Critical,2025-09-26,No,1
+1050,Arun Kumar,2025-06-18,Oncology,E11.9,Dr. Rajesh,HDFC Ergo,41365.42,Critical,2025-07-02,No,14
+1052,Sneha Kapoor,2025-12-27,Oncology,J45.9,Dr. Aditi,Out-of-Pocket,33503.17,Stable,,Yes,79
+1083,Meera Krishnan,2025-01-06,Pediatrics,C34.9,Dr. Vikram,HDFC Ergo,44215.73,Recovering,2025-01-09,No,3
+1052,Rohan Gupta,2025-06-29,Neurology,E11.9,Dr. Vikram,LIC,41165.24,Stable,2025-07-12,No,13
+1071,Anitha Raj,2025-02-15,Cardiology,G40.9,Dr. Shalini,LIC,13395.65,Critical,2025-03-01,No,14
+1033,Sanjay Viswanathan,2025-05-15,Pediatrics,E11.9,Dr. Murugan,HDFC Ergo,45165.15,Recovering,2025-05-23,No,8
+1035,Meera Krishnan,2025-12-14,Cardiology,J45.9,Dr. Rajesh,HDFC Ergo,29270.4,Recovering,2025-12-28,No,14
+1074,Arun Kumar,2025-07-04,Oncology,I21.9,Dr. Murugan,HDFC Ergo,41334.81,Stable,2025-07-06,No,2
+1051,Sneha Kapoor,2025-02-02,Cardiology,C34.9,Dr. Murugan,HDFC Ergo,45324.11,Critical,2025-02-06,No,4
+1040,Anitha Raj,2025-03-28,Cardiology,E11.9,Dr. Rajesh,Star Health,19310.16,Critical,2025-03-30,No,2
+1009,Arun Kumar,2025-01-25,Oncology,J45.9,Dr. Rajesh,Out-of-Pocket,9952.34,Recovering,2025-02-08,No,14
+1040,Rohan Gupta,2025-08-28,Neurology,E11.9,Dr. Rajesh,Out-of-Pocket,15257.08,Stable,2025-09-02,No,5
+1010,Priya Sharma,2025-12-09,Pediatrics,J45.9,Dr. Vikram,Out-of-Pocket,24219.85,Critical,2025-12-18,No,9
+1018,Anitha Raj,2025-07-16,Pediatrics,E11.9,Dr. Shalini,LIC,41810.66,Stable,2025-07-17,No,1
+1080,Priya Sharma,2025-03-30,Cardiology,E11.9,Dr. Vikram,Star Health,43732.88,Critical,2025-04-04,No,5
+1047,Deepa Nair,2025-07-11,Cardiology,I21.9,Dr. Shalini,Out-of-Pocket,5312.85,Stable,2025-07-25,No,14
+1036,Sanjay Viswanathan,2025-09-12,Oncology,J45.9,Dr. Aditi,Out-of-Pocket,27983.63,Stable,2025-09-21,No,9
+1021,Anitha Raj,2025-01-18,Neurology,E11.9,Dr. Vikram,HDFC Ergo,23783.5,Critical,2025-01-19,No,1
+1063,Priya Sharma,2025-06-10,Oncology,C34.9,Dr. Aditi,HDFC Ergo,14994.85,Stable,2025-06-19,No,9
+1097,Karthik Raja,2025-01-14,Oncology,J45.9,Dr. Murugan,Star Health,10393.94,Stable,2025-01-22,No,8
+1064,Deepa Nair,2025-10-31,Cardiology,G40.9,Dr. Vikram,HDFC Ergo,20192.68,Stable,2025-11-04,No,4
+1025,Rohan Gupta,2025-06-30,Pediatrics,G40.9,Dr. Shalini,Star Health,47430.94,Stable,,Yes,259
+1081,Karthik Raja,2025-10-26,Neurology,G40.9,Dr. Aditi,HDFC Ergo,19544.13,Critical,2025-11-06,No,11
+1069,Sanjay Viswanathan,2025-06-05,Pediatrics,C34.9,Dr. Aditi,HDFC Ergo,28345.58,Stable,2025-06-15,No,10
+1040,Sanjay Viswanathan,2025-08-10,Pediatrics,G40.9,Dr. Rajesh,HDFC Ergo,36635.85,Stable,2025-08-15,No,5
+1049,Rohan Gupta,2025-11-08,Cardiology,C34.9,Dr. Aditi,Star Health,21363.33,Critical,2025-11-21,No,13
+1017,Sneha Kapoor,2025-12-31,Cardiology,E11.9,Dr. Rajesh,Star Health,48730.19,Recovering,,Yes,75
+1075,Rohan Gupta,2025-09-03,ER,I21.9,Dr. Aditi,Star Health,48310.13,Critical,,Yes,194
+1054,Vijay Sethupathi,2025-07-01,Pediatrics,G40.9,Dr. Aditi,Star Health,16330.2,Recovering,2025-07-13,No,12
+1044,Arun Kumar,2025-08-12,Neurology,G40.9,Dr. Murugan,HDFC Ergo,27376.18,Stable,2025-08-18,No,6
+1007,Deepa Nair,2025-06-07,ER,G40.9,Dr. Aditi,HDFC Ergo,18539.52,Stable,2025-06-14,No,7
+1084,Meera Krishnan,2025-05-13,Oncology,E11.9,Dr. Rajesh,Out-of-Pocket,17817.82,Stable,,Yes,307
+1071,Anitha Raj,2025-01-10,ER,G40.9,Dr. Murugan,LIC,6659.91,Critical,2025-01-24,No,14
+1089,Sanjay Viswanathan,2025-03-14,Neurology,J45.9,Dr. Murugan,HDFC Ergo,32430.4,Stable,2025-03-22,No,8
+1085,Arun Kumar,2025-07-26,Cardiology,G40.9,Dr. Aditi,LIC,27620.56,Critical,2025-08-06,No,11
+1010,Rohan Gupta,2025-02-09,ER,E11.9,Dr. Shalini,Out-of-Pocket,7316.54,Recovering,2025-02-23,No,14
+1090,Sanjay Viswanathan,2025-08-13,Oncology,E11.9,Dr. Rajesh,LIC,17539.09,Stable,,Yes,215
+1081,Karthik Raja,2025-04-16,Oncology,I21.9,Dr. Shalini,Out-of-Pocket,45871.96,Pending Assessment,,Yes,334
+1098,Deepa Nair,2025-11-09,Pediatrics,C34.9,Dr. Murugan,Star Health,15780.29,Stable,2025-11-18,No,9
+1098,Sanjay Viswanathan,2025-09-29,ER,E11.9,Dr. Vikram,HDFC Ergo,11520.27,Stable,2025-10-06,No,7
+1033,Meera Krishnan,2025-01-10,Pediatrics,J45.9,Dr. Rajesh,Out-of-Pocket,27025.37,Stable,2025-01-14,No,4
+1092,Sanjay Viswanathan,2025-12-31,Oncology,E11.9,Dr. Vikram,LIC,49354.27,Stable,2026-01-04,No,4
+1070,Meera Krishnan,2025-05-29,Oncology,I21.9,Dr. Aditi,Star Health,15892.49,Stable,2025-06-09,No,11
+1090,Sneha Kapoor,2025-03-27,Neurology,G40.9,Dr. Murugan,Star Health,35246.1,Critical,,Yes,354
+1038,Sanjay Viswanathan,2025-07-15,Pediatrics,I21.9,Dr. Shalini,Star Health,39272.88,Stable,2025-07-19,No,4
+1050,Sneha Kapoor,2025-06-25,Oncology,I21.9,Dr. Aditi,Out-of-Pocket,15693.69,Recovering,2025-07-08,No,13
+1098,Arun Kumar,2025-03-20,Cardiology,E11.9,Dr. Aditi,Star Health,37769.74,Stable,2025-03-26,No,6
+1018,Arun Kumar,2025-06-24,Pediatrics,E11.9,Dr. Shalini,Star Health,21550.24,Recovering,2025-06-29,No,5
+1067,Sneha Kapoor,2025-09-27,Oncology,E11.9,Dr. Vikram,HDFC Ergo,33453.76,Critical,2025-09-30,No,3
+1083,Vijay Sethupathi,2025-03-06,Pediatrics,E11.9,Dr. Aditi,HDFC Ergo,33508.84,Stable,2025-03-19,No,13
+1031,Meera Krishnan,2025-03-24,Neurology,I21.9,Dr. Murugan,HDFC Ergo,29109.86,Recovering,2025-04-07,No,14
+1079,Rohan Gupta,2025-05-23,Neurology,G40.9,Dr. Rajesh,LIC,9063.04,Stable,2025-06-02,No,10
+1065,Sneha Kapoor,2025-06-05,Cardiology,I21.9,Dr. Vikram,LIC,42588.61,Stable,,Yes,284
+1029,Anitha Raj,2025-02-25,Neurology,E11.9,Dr. Aditi,LIC,19435.1,Pending Assessment,2025-02-27,No,2
+1010,Anitha Raj,2025-03-14,Cardiology,C34.9,Dr. Aditi,HDFC Ergo,13393.33,Stable,2025-03-23,No,9
+1021,Anitha Raj,2025-12-30,Neurology,J45.9,Dr. Shalini,Out-of-Pocket,6834.88,Recovering,2026-01-09,No,10
+1008,Sneha Kapoor,2025-06-21,Neurology,I21.9,Dr. Shalini,Star Health,31590.18,Recovering,2025-06-30,No,9
+1025,Meera Krishnan,2025-02-06,Neurology,G40.9,Dr. Murugan,LIC,35490.4,Stable,2025-02-07,No,1
+1034,Vijay Sethupathi,2025-09-28,Cardiology,G40.9,Dr. Vikram,LIC,5746.45,Critical,2025-10-08,No,10
+1041,Deepa Nair,2025-08-07,Pediatrics,E11.9,Dr. Shalini,Out-of-Pocket,28044.19,Recovering,2025-08-10,No,3
+1079,Meera Krishnan,2025-07-29,Neurology,I21.9,Dr. Shalini,Star Health,15192.31,Recovering,2025-08-06,No,8
+1058,Karthik Raja,2025-09-03,ER,J45.9,Dr. Murugan,Out-of-Pocket,34032.78,Recovering,,Yes,194
+1053,Deepa Nair,2025-09-14,Neurology,E11.9,Dr. Rajesh,Out-of-Pocket,12846.49,Critical,2025-09-19,No,5
+1058,Sneha Kapoor,2025-08-14,ER,E11.9,Dr. Murugan,Star Health,36092.2,Stable,2025-08-19,No,5
+1085,Karthik Raja,2025-02-25,ER,G40.9,Dr. Rajesh,Star Health,22403.09,Recovering,2025-03-03,No,6
+1021,Arun Kumar,2025-11-01,Cardiology,E11.9,Dr. Murugan,HDFC Ergo,47152.85,Stable,2025-11-08,No,7
+1024,Sanjay Viswanathan,2025-08-17,Neurology,J45.9,Dr. Shalini,Star Health,11188.44,Pending Assessment,2025-08-18,No,1
+1032,Meera Krishnan,2025-01-11,Cardiology,E11.9,Dr. Murugan,Out-of-Pocket,20347.99,Stable,2025-01-20,No,9
+1067,Karthik Raja,2025-06-27,Neurology,C34.9,Dr. Shalini,LIC,10106.31,Recovering,2025-06-30,No,3
+1052,Arun Kumar,2025-02-09,Pediatrics,I21.9,Dr. Rajesh,LIC,46611.21,Critical,2025-02-13,No,4
+1011,Vijay Sethupathi,2025-03-18,Cardiology,E11.9,Dr. Murugan,HDFC Ergo,44480.27,Stable,2025-03-28,No,10
+1052,Meera Krishnan,2025-11-16,Pediatrics,J45.9,Dr. Rajesh,HDFC Ergo,16607.37,Pending Assessment,,Yes,120
+1094,Sneha Kapoor,2025-11-08,Oncology,G40.9,Dr. Shalini,Out-of-Pocket,34699.28,Stable,2025-11-21,No,13
+1006,Anitha Raj,2025-03-17,ER,J45.9,Dr. Vikram,HDFC Ergo,41775.0,Recovering,2025-03-28,No,11
+1017,Deepa Nair,2025-01-07,Oncology,E11.9,Dr. Vikram,Out-of-Pocket,29984.04,Stable,2025-01-17,No,10
+1052,Sanjay Viswanathan,2025-12-03,Neurology,E11.9,Dr. Shalini,Star Health,28834.28,Pending Assessment,,Yes,103
+1073,Priya Sharma,2025-06-03,Neurology,J45.9,Dr. Rajesh,Star Health,15883.35,Stable,2025-06-05,No,2
+1011,Deepa Nair,2025-03-24,Cardiology,J45.9,Dr. Vikram,Out-of-Pocket,9189.62,Critical,2025-03-26,No,2
+1061,Sneha Kapoor,2025-12-16,Cardiology,G40.9,Dr. Shalini,HDFC Ergo,45374.71,Stable,2025-12-30,No,14
+1099,Karthik Raja,2025-03-04,Oncology,C34.9,Dr. Aditi,Star Health,45518.81,Stable,2025-03-05,No,1
+1023,Sanjay Viswanathan,2025-04-12,Oncology,C34.9,Dr. Vikram,Star Health,33489.57,Stable,,Yes,338
+1089,Sneha Kapoor,2025-07-26,Cardiology,E11.9,Dr. Rajesh,LIC,20256.34,Recovering,2025-07-29,No,3
+1089,Meera Krishnan,2025-12-05,ER,I21.9,Dr. Shalini,Out-of-Pocket,20714.43,Stable,2025-12-08,No,3
+1093,Deepa Nair,2025-02-07,Pediatrics,J45.9,Dr. Aditi,Star Health,37668.01,Stable,2025-02-13,No,6
+1084,Sneha Kapoor,2025-11-22,ER,I21.9,Dr. Murugan,LIC,45369.96,Stable,2025-12-05,No,13
+1030,Priya Sharma,2025-05-11,Pediatrics,C34.9,Dr. Vikram,Out-of-Pocket,44918.89,Critical,2025-05-19,No,8
+1098,Vijay Sethupathi,2025-07-30,Pediatrics,I21.9,Dr. Shalini,LIC,40094.4,Pending Assessment,2025-08-12,No,13
+1057,Anitha Raj,2025-11-26,Cardiology,E11.9,Dr. Aditi,LIC,33891.42,Recovering,,Yes,110
+1054,Rohan Gupta,2025-11-02,Pediatrics,G40.9,Dr. Rajesh,Star Health,8786.3,Recovering,2025-11-11,No,9
+1051,Arun Kumar,2025-04-03,Pediatrics,I21.9,Dr. Vikram,HDFC Ergo,12273.29,Recovering,2025-04-07,No,4
+1062,Arun Kumar,2025-10-03,ER,C34.9,Dr. Rajesh,Star Health,45434.94,Stable,,Yes,164
+1077,Rohan Gupta,2025-04-17,Neurology,E11.9,Dr. Rajesh,Star Health,32289.31,Recovering,2025-04-22,No,5
+1000,Arun Kumar,2025-02-23,Neurology,C34.9,Dr. Aditi,HDFC Ergo,5413.87,Stable,2025-02-25,No,2
+1079,Rohan Gupta,2025-06-13,ER,G40.9,Dr. Vikram,Out-of-Pocket,9566.22,Stable,2025-06-24,No,11
+1090,Sneha Kapoor,2025-03-31,Cardiology,J45.9,Dr. Vikram,Out-of-Pocket,34857.58,Stable,2025-04-09,No,9
+1062,Anitha Raj,2025-03-23,Cardiology,G40.9,Dr. Vikram,Out-of-Pocket,5227.77,Critical,2025-03-31,No,8
+1029,Vijay Sethupathi,2025-09-28,ER,C34.9,Dr. Vikram,HDFC Ergo,12236.36,Recovering,2025-10-01,No,3
+1067,Karthik Raja,2025-03-28,Pediatrics,G40.9,Dr. Vikram,LIC,29693.02,Critical,2025-04-08,No,11
+1077,Anitha Raj,2025-09-14,Cardiology,C34.9,Dr. Shalini,Out-of-Pocket,36135.28,Stable,,Yes,183
+1055,Vijay Sethupathi,2025-06-26,Cardiology,C34.9,Dr. Vikram,Out-of-Pocket,34338.26,Recovering,2025-07-09,No,13
+1013,Rohan Gupta,2025-07-04,ER,C34.9,Dr. Vikram,LIC,15092.12,Stable,2025-07-13,No,9
+1007,Rohan Gupta,2025-07-13,Oncology,G40.9,Dr. Vikram,HDFC Ergo,37048.06,Recovering,2025-07-16,No,3
+1017,Priya Sharma,2025-07-15,Oncology,J45.9,Dr. Aditi,LIC,15676.21,Recovering,2025-07-24,No,9
+1041,Karthik Raja,2025-07-13,ER,I21.9,Dr. Murugan,Out-of-Pocket,19642.99,Critical,2025-07-15,No,2
+1028,Arun Kumar,2025-11-08,ER,E11.9,Dr. Rajesh,HDFC Ergo,38592.11,Stable,2025-11-20,No,12
+1071,Anitha Raj,2025-02-14,Oncology,C34.9,Dr. Murugan,LIC,34233.48,Critical,,Yes,395
+1064,Arun Kumar,2025-12-09,Pediatrics,G40.9,Dr. Aditi,Star Health,43215.05,Pending Assessment,2025-12-18,No,9
+1041,Arun Kumar,2025-11-03,Neurology,C34.9,Dr. Aditi,Out-of-Pocket,34592.58,Stable,2025-11-11,No,8
+1013,Rohan Gupta,2025-05-16,Cardiology,E11.9,Dr. Rajesh,LIC,30573.89,Recovering,2025-05-25,No,9
+1061,Vijay Sethupathi,2025-10-23,ER,E11.9,Dr. Rajesh,Star Health,9215.36,Critical,2025-10-28,No,5
+1028,Rohan Gupta,2025-07-04,Cardiology,I21.9,Dr. Rajesh,HDFC Ergo,21547.21,Recovering,2025-07-15,No,11
+1038,Vijay Sethupathi,2025-03-13,ER,E11.9,Dr. Vikram,LIC,16934.11,Stable,,Yes,368
+1057,Deepa Nair,2025-05-26,Cardiology,E11.9,Dr. Murugan,LIC,15979.53,Stable,2025-05-28,No,2
+1018,Sneha Kapoor,2025-08-12,Oncology,E11.9,Dr. Murugan,HDFC Ergo,48785.47,Stable,2025-08-20,No,8
+1089,Priya Sharma,2025-07-05,Pediatrics,C34.9,Dr. Shalini,Out-of-Pocket,22689.4,Critical,2025-07-17,No,12
+1055,Karthik Raja,2025-01-31,ER,I21.9,Dr. Vikram,LIC,45142.09,Stable,2025-02-06,No,6
+1005,Sneha Kapoor,2025-11-12,Cardiology,C34.9,Dr. Shalini,LIC,33401.24,Recovering,2025-11-20,No,8
+1003,Priya Sharma,2025-01-30,ER,I21.9,Dr. Aditi,LIC,40766.51,Stable,2025-02-10,No,11
+1041,Anitha Raj,2025-06-29,Pediatrics,J45.9,Dr. Aditi,Out-of-Pocket,27618.67,Stable,2025-07-04,No,5
+1098,Anitha Raj,2025-11-27,ER,I21.9,Dr. Aditi,HDFC Ergo,30960.67,Stable,2025-12-07,No,10
+1029,Sanjay Viswanathan,2025-09-14,Cardiology,I21.9,Dr. Rajesh,Out-of-Pocket,27163.3,Recovering,2025-09-16,No,2
+1070,Anitha Raj,2025-11-01,Pediatrics,C34.9,Dr. Aditi,Star Health,13785.93,Stable,2025-11-07,No,6
+1094,Priya Sharma,2025-07-08,Pediatrics,E11.9,Dr. Shalini,LIC,37510.35,Critical,2025-07-13,No,5
+1022,Priya Sharma,2025-06-11,ER,I21.9,Dr. Rajesh,Star Health,17634.76,Stable,2025-06-23,No,12
+1065,Priya Sharma,2025-10-02,Neurology,J45.9,Dr. Rajesh,HDFC Ergo,6094.22,Critical,2025-10-15,No,13
+1080,Sanjay Viswanathan,2025-12-09,ER,C34.9,Dr. Aditi,LIC,34046.25,Critical,2025-12-21,No,12
+1009,Arun Kumar,2025-06-11,Oncology,C34.9,Dr. Shalini,LIC,12969.98,Critical,2025-06-16,No,5
+1005,Vijay Sethupathi,2025-03-15,Neurology,G40.9,Dr. Vikram,Out-of-Pocket,47320.64,Stable,2025-03-28,No,13
+1009,Meera Krishnan,2025-04-30,Cardiology,E11.9,Dr. Vikram,Star Health,47926.79,Stable,2025-05-01,No,1
+1025,Deepa Nair,2025-02-16,Cardiology,G40.9,Dr. Murugan,Out-of-Pocket,46168.9,Pending Assessment,2025-02-18,No,2
+1075,Arun Kumar,2025-12-03,Oncology,J45.9,Dr. Shalini,Out-of-Pocket,21657.14,Critical,2025-12-11,No,8
+1019,Sneha Kapoor,2025-01-05,Pediatrics,E11.9,Dr. Shalini,Out-of-Pocket,5695.55,Stable,2025-01-18,No,13
+1058,Sneha Kapoor,2025-10-04,Pediatrics,J45.9,Dr. Rajesh,Star Health,46774.34,Critical,2025-10-18,No,14
+1009,Karthik Raja,2025-05-01,Cardiology,G40.9,Dr. Shalini,Out-of-Pocket,24268.29,Critical,,Yes,319
+1021,Sneha Kapoor,2025-04-17,Cardiology,C34.9,Dr. Murugan,HDFC Ergo,48499.47,Stable,2025-04-20,No,3
+1022,Priya Sharma,2025-11-19,Cardiology,E11.9,Dr. Vikram,Out-of-Pocket,48362.9,Stable,,Yes,117
+1027,Sanjay Viswanathan,2025-02-03,Cardiology,C34.9,Dr. Murugan,Star Health,43385.43,Recovering,2025-02-06,No,3
+1075,Arun Kumar,2025-04-23,ER,C34.9,Dr. Shalini,Star Health,18250.2,Stable,2025-05-01,No,8
+1041,Meera Krishnan,2025-12-10,ER,E11.9,Dr. Rajesh,Star Health,22329.4,Recovering,,Yes,96
+1089,Priya Sharma,2025-12-12,Neurology,E11.9,Dr. Aditi,LIC,43301.15,Stable,2025-12-14,No,2
+1018,Deepa Nair,2025-06-07,Oncology,I21.9,Dr. Vikram,LIC,19261.49,Stable,2025-06-15,No,8
+1091,Deepa Nair,2025-07-11,Neurology,I21.9,Dr. Murugan,Out-of-Pocket,12627.17,Recovering,,Yes,248
+1087,Anitha Raj,2025-10-22,Pediatrics,J45.9,Dr. Murugan,LIC,30056.06,Recovering,2025-11-04,No,13
+1100,Vijay Sethupathi,2025-03-20,Cardiology,E11.9,Dr. Shalini,LIC,47126.96,Recovering,,Yes,361
+1025,Rohan Gupta,2025-01-26,Cardiology,E11.9,Dr. Rajesh,HDFC Ergo,36321.34,Stable,2025-01-27,No,1
+1058,Arun Kumar,2025-08-07,Neurology,I21.9,Dr. Shalini,Out-of-Pocket,30652.75,Stable,2025-08-13,No,6
+1077,Meera Krishnan,2025-08-06,Neurology,I21.9,Dr. Shalini,HDFC Ergo,9372.94,Stable,2025-08-14,No,8
+1008,Anitha Raj,2025-11-09,Pediatrics,C34.9,Dr. Rajesh,Out-of-Pocket,32675.33,Stable,2025-11-12,No,3
+1091,Deepa Nair,2025-12-08,Neurology,C34.9,Dr. Shalini,LIC,49552.42,Stable,2025-12-16,No,8
+1013,Anitha Raj,2025-04-13,ER,J45.9,Dr. Rajesh,HDFC Ergo,11303.78,Critical,2025-04-25,No,12
+1037,Deepa Nair,2025-11-21,Pediatrics,E11.9,Dr. Shalini,LIC,28324.83,Critical,2025-11-22,No,1
+1031,Sneha Kapoor,2025-12-04,Cardiology,G40.9,Dr. Murugan,LIC,44481.79,Stable,,Yes,102
+1069,Anitha Raj,2025-11-17,Pediatrics,C34.9,Dr. Murugan,Star Health,38334.59,Stable,2025-11-28,No,11
+1097,Anitha Raj,2025-02-19,Neurology,G40.9,Dr. Rajesh,Star Health,36365.71,Stable,2025-02-28,No,9
+1046,Vijay Sethupathi,2025-11-06,Cardiology,E11.9,Dr. Vikram,HDFC Ergo,36611.78,Critical,2025-11-19,No,13
+1023,Sneha Kapoor,2025-12-30,Pediatrics,J45.9,Dr. Murugan,Out-of-Pocket,21177.1,Critical,,Yes,76
+1004,Sanjay Viswanathan,2025-03-03,ER,E11.9,Dr. Aditi,LIC,18211.63,Critical,2025-03-16,No,13
+1094,Meera Krishnan,2025-11-23,Cardiology,E11.9,Dr. Rajesh,HDFC Ergo,41421.25,Pending Assessment,,Yes,113
+1086,Sneha Kapoor,2025-10-12,Pediatrics,J45.9,Dr. Murugan,Out-of-Pocket,41455.1,Stable,2025-10-17,No,5
+1006,Karthik Raja,2025-02-11,Cardiology,C34.9,Dr. Vikram,Out-of-Pocket,44018.25,Stable,2025-02-21,No,10
+1085,Sanjay Viswanathan,2025-10-21,ER,E11.9,Dr. Aditi,Out-of-Pocket,46095.82,Stable,2025-10-25,No,4
+1095,Karthik Raja,2025-05-28,Cardiology,J45.9,Dr. Murugan,Out-of-Pocket,28010.41,Critical,2025-06-08,No,11
+1087,Sanjay Viswanathan,2025-07-18,Oncology,E11.9,Dr. Vikram,HDFC Ergo,27568.23,Stable,,Yes,241
+1084,Karthik Raja,2025-02-24,ER,E11.9,Dr. Vikram,LIC,40923.28,Stable,2025-03-08,No,12
+1015,Sneha Kapoor,2025-12-08,Neurology,J45.9,Dr. Vikram,HDFC Ergo,34248.38,Critical,2025-12-15,No,7
+1006,Vijay Sethupathi,2025-08-30,Neurology,G40.9,Dr. Aditi,HDFC Ergo,36588.51,Stable,2025-09-04,No,5
+1003,Vijay Sethupathi,2025-06-05,Oncology,E11.9,Dr. Vikram,Out-of-Pocket,40810.67,Critical,2025-06-16,No,11
+1014,Anitha Raj,2025-04-05,Oncology,I21.9,Dr. Rajesh,Out-of-Pocket,45050.24,Stable,2025-04-18,No,13
+1083,Vijay Sethupathi,2025-09-07,Oncology,J45.9,Dr. Vikram,Star Health,20209.78,Stable,,Yes,190
+1027,Anitha Raj,2025-03-11,Neurology,I21.9,Dr. Murugan,Star Health,21901.23,Recovering,2025-03-20,No,9
+1068,Meera Krishnan,2025-11-10,Oncology,I21.9,Dr. Aditi,LIC,9229.19,Recovering,2025-11-13,No,3
+1065,Meera Krishnan,2025-12-02,ER,G40.9,Dr. Murugan,HDFC Ergo,31022.61,Recovering,,Yes,104
+1085,Deepa Nair,2025-03-26,Pediatrics,J45.9,Dr. Vikram,HDFC Ergo,6617.4,Critical,2025-04-05,No,10
+1007,Vijay Sethupathi,2025-09-01,Pediatrics,G40.9,Dr. Rajesh,HDFC Ergo,25951.91,Stable,2025-09-11,No,10
+1084,Arun Kumar,2025-11-12,ER,E11.9,Dr. Shalini,Out-of-Pocket,29419.01,Stable,2025-11-23,No,11
+1079,Vijay Sethupathi,2025-05-19,Pediatrics,E11.9,Dr. Vikram,Out-of-Pocket,17894.36,Recovering,2025-05-24,No,5
+1036,Sanjay Viswanathan,2025-04-23,ER,C34.9,Dr. Shalini,LIC,31587.5,Critical,2025-05-07,No,14
+1074,Meera Krishnan,2025-11-01,Pediatrics,J45.9,Dr. Shalini,Out-of-Pocket,6372.51,Critical,2025-11-08,No,7
+1006,Anitha Raj,2025-03-10,Pediatrics,I21.9,Dr. Aditi,HDFC Ergo,6680.67,Recovering,,Yes,371
+1021,Anitha Raj,2025-07-05,Pediatrics,G40.9,Dr. Murugan,HDFC Ergo,42017.03,Critical,2025-07-09,No,4
+1080,Anitha Raj,2025-09-21,Neurology,J45.9,Dr. Shalini,LIC,21208.58,Stable,2025-09-23,No,2
+1093,Rohan Gupta,2025-10-12,ER,I21.9,Dr. Shalini,HDFC Ergo,10717.72,Recovering,2025-10-26,No,14
+1055,Vijay Sethupathi,2025-04-12,Pediatrics,E11.9,Dr. Aditi,Out-of-Pocket,28500.95,Critical,2025-04-25,No,13
+1003,Rohan Gupta,2025-06-22,Oncology,G40.9,Dr. Aditi,Out-of-Pocket,39649.71,Stable,2025-07-05,No,13
+1007,Arun Kumar,2025-11-01,Neurology,J45.9,Dr. Murugan,HDFC Ergo,14711.95,Critical,2025-11-13,No,12
+1029,Sanjay Viswanathan,2025-08-03,Oncology,G40.9,Dr. Murugan,LIC,33030.07,Critical,2025-08-10,No,7
+1035,Karthik Raja,2025-12-24,Pediatrics,E11.9,Dr. Rajesh,HDFC Ergo,8840.64,Stable,,Yes,82
+1049,Arun Kumar,2025-09-10,ER,C34.9,Dr. Aditi,HDFC Ergo,7325.68,Recovering,2025-09-23,No,13
+1082,Deepa Nair,2025-06-13,Neurology,G40.9,Dr. Murugan,Out-of-Pocket,28910.96,Stable,2025-06-27,No,14
+1056,Vijay Sethupathi,2025-07-12,Neurology,G40.9,Dr. Shalini,HDFC Ergo,29328.58,Stable,2025-07-23,No,11
+1095,Priya Sharma,2025-04-25,Cardiology,E11.9,Dr. Murugan,HDFC Ergo,33684.35,Critical,,Yes,325
+1071,Arun Kumar,2025-07-15,Pediatrics,I21.9,Dr. Murugan,Out-of-Pocket,37674.11,Stable,2025-07-24,No,9
+1028,Anitha Raj,2025-07-08,Oncology,E11.9,Dr. Aditi,Star Health,48913.34,Pending Assessment,2025-07-09,No,1
+1069,Vijay Sethupathi,2025-09-19,Cardiology,E11.9,Dr. Shalini,HDFC Ergo,28233.52,Stable,2025-09-27,No,8
+1014,Anitha Raj,2025-05-18,ER,C34.9,Dr. Murugan,Out-of-Pocket,19533.04,Stable,2025-05-20,No,2
+1004,Vijay Sethupathi,2025-09-24,ER,I21.9,Dr. Murugan,HDFC Ergo,40783.38,Stable,2025-10-06,No,12
+1009,Rohan Gupta,2025-06-05,Cardiology,E11.9,Dr. Shalini,Star Health,17187.45,Stable,2025-06-13,No,8
+1089,Arun Kumar,2025-08-22,Oncology,C34.9,Dr. Murugan,Out-of-Pocket,24753.71,Recovering,2025-09-04,No,13
+1045,Rohan Gupta,2025-10-22,ER,G40.9,Dr. Shalini,LIC,8530.54,Stable,2025-10-25,No,3
+1032,Rohan Gupta,2025-08-29,ER,I21.9,Dr. Rajesh,Out-of-Pocket,6140.78,Critical,2025-09-04,No,6
+1030,Meera Krishnan,2025-07-30,Pediatrics,I21.9,Dr. Vikram,Out-of-Pocket,48319.18,Pending Assessment,2025-08-02,No,3
+1072,Vijay Sethupathi,2025-05-08,ER,C34.9,Dr. Rajesh,LIC,42619.11,Stable,2025-05-22,No,14
+1036,Sanjay Viswanathan,2025-12-07,Pediatrics,C34.9,Dr. Rajesh,LIC,36318.84,Stable,2025-12-14,No,7
+1058,Sneha Kapoor,2025-12-27,Cardiology,C34.9,Dr. Shalini,Star Health,23402.88,Stable,2026-01-06,No,10
+1089,Rohan Gupta,2025-11-27,ER,G40.9,Dr. Vikram,Out-of-Pocket,12798.24,Stable,,Yes,109
+1093,Arun Kumar,2025-12-16,Neurology,J45.9,Dr. Vikram,LIC,12039.67,Critical,2025-12-18,No,2
+1084,Sneha Kapoor,2025-11-09,Cardiology,C34.9,Dr. Shalini,Out-of-Pocket,16260.93,Critical,2025-11-21,No,12
+1080,Anitha Raj,2025-09-26,Neurology,C34.9,Dr. Shalini,Out-of-Pocket,29715.2,Recovering,2025-10-08,No,12
+1078,Meera Krishnan,2025-12-14,Cardiology,I21.9,Dr. Rajesh,HDFC Ergo,37156.82,Stable,,Yes,92
+1081,Arun Kumar,2025-05-06,ER,J45.9,Dr. Vikram,Star Health,34708.88,Recovering,2025-05-11,No,5
+1043,Rohan Gupta,2025-07-25,Neurology,I21.9,Dr. Shalini,LIC,17597.03,Critical,,Yes,234
+1017,Arun Kumar,2025-09-06,Neurology,J45.9,Dr. Aditi,Star Health,47968.94,Stable,2025-09-12,No,6
+1016,Sanjay Viswanathan,2025-10-30,ER,I21.9,Dr. Shalini,Out-of-Pocket,38205.36,Critical,2025-11-03,No,4
+1072,Karthik Raja,2025-06-18,Cardiology,I21.9,Dr. Aditi,Out-of-Pocket,29945.93,Recovering,2025-06-22,No,4
+1065,Anitha Raj,2025-11-16,Cardiology,E11.9,Dr. Vikram,HDFC Ergo,32527.43,Recovering,2025-11-20,No,4
+1020,Meera Krishnan,2025-07-27,ER,I21.9,Dr. Shalini,Out-of-Pocket,23882.0,Critical,2025-07-29,No,2
+1076,Sanjay Viswanathan,2025-05-24,Cardiology,G40.9,Dr. Aditi,Star Health,16147.89,Pending Assessment,2025-05-28,No,4
+1039,Sanjay Viswanathan,2025-08-07,Oncology,G40.9,Dr. Vikram,LIC,21018.77,Stable,2025-08-18,No,11
+1099,Sanjay Viswanathan,2025-10-01,Neurology,I21.9,Dr. Aditi,Star Health,39103.07,Critical,2025-10-02,No,1
+1057,Anitha Raj,2025-12-07,ER,E11.9,Dr. Shalini,Star Health,5647.71,Stable,,Yes,99
+1065,Deepa Nair,2025-12-22,Oncology,I21.9,Dr. Vikram,LIC,10223.27,Critical,2025-12-28,No,6
+1068,Sneha Kapoor,2025-10-16,Pediatrics,I21.9,Dr. Murugan,Out-of-Pocket,7070.12,Stable,2025-10-17,No,1
+1039,Priya Sharma,2025-12-14,Neurology,E11.9,Dr. Rajesh,Out-of-Pocket,6832.8,Critical,2025-12-24,No,10
+1048,Anitha Raj,2025-11-05,Pediatrics,E11.9,Dr. Shalini,Out-of-Pocket,43495.73,Critical,2025-11-11,No,6
+1042,Sanjay Viswanathan,2025-09-26,Neurology,J45.9,Dr. Aditi,HDFC Ergo,36664.6,Critical,2025-09-27,No,1
+1070,Vijay Sethupathi,2025-11-30,Oncology,C34.9,Dr. Vikram,HDFC Ergo,26337.82,Stable,,Yes,106
+1085,Deepa Nair,2025-10-06,Cardiology,E11.9,Dr. Vikram,LIC,9402.54,Critical,,Yes,161
+1099,Rohan Gupta,2025-10-31,Pediatrics,I21.9,Dr. Murugan,LIC,27122.71,Critical,2025-11-08,No,8
+1100,Sanjay Viswanathan,2025-03-03,ER,I21.9,Dr. Rajesh,HDFC Ergo,26306.23,Pending Assessment,2025-03-14,No,11
+1053,Meera Krishnan,2025-09-17,Neurology,C34.9,Dr. Rajesh,Star Health,12794.08,Stable,2025-09-19,No,2
+1048,Arun Kumar,2025-12-28,Neurology,I21.9,Dr. Murugan,Out-of-Pocket,24523.32,Stable,,Yes,78
+1085,Anitha Raj,2025-11-27,Oncology,I21.9,Dr. Aditi,Star Health,22932.71,Critical,2025-12-11,No,14
+1058,Arun Kumar,2025-06-20,Neurology,I21.9,Dr. Aditi,Out-of-Pocket,32713.25,Stable,2025-07-03,No,13
+1031,Arun Kumar,2025-05-11,Neurology,J45.9,Dr. Aditi,LIC,33579.21,Recovering,2025-05-23,No,12
+1017,Arun Kumar,2025-07-08,Neurology,C34.9,Dr. Vikram,Star Health,7038.68,Critical,2025-07-12,No,4
+1100,Sanjay Viswanathan,2025-04-26,Cardiology,E11.9,Dr. Shalini,HDFC Ergo,21857.57,Stable,2025-05-07,No,11
+1010,Priya Sharma,2025-08-11,Pediatrics,I21.9,Dr. Aditi,Star Health,33163.7,Recovering,2025-08-14,No,3
+1008,Anitha Raj,2025-03-25,Neurology,C34.9,Dr. Vikram,Out-of-Pocket,27641.13,Critical,2025-03-29,No,4
+1024,Meera Krishnan,2025-11-19,Pediatrics,C34.9,Dr. Murugan,Out-of-Pocket,43542.04,Stable,2025-12-02,No,13
+1065,Karthik Raja,2025-05-12,Oncology,C34.9,Dr. Shalini,Out-of-Pocket,34641.21,Critical,2025-05-24,No,12
+1004,Anitha Raj,2025-04-28,Cardiology,G40.9,Dr. Rajesh,LIC,12332.05,Critical,2025-05-05,No,7
+1047,Sanjay Viswanathan,2025-08-05,Oncology,J45.9,Dr. Rajesh,Star Health,8175.59,Stable,,Yes,223
+1097,Deepa Nair,2025-03-16,Neurology,E11.9,Dr. Aditi,Star Health,33908.87,Recovering,2025-03-27,No,11
+1052,Priya Sharma,2025-08-25,Oncology,C34.9,Dr. Shalini,Star Health,6193.01,Stable,,Yes,203
+1019,Karthik Raja,2025-08-01,Cardiology,E11.9,Dr. Shalini,HDFC Ergo,31359.9,Stable,2025-08-07,No,6
+1089,Vijay Sethupathi,2025-12-30,Cardiology,J45.9,Dr. Vikram,Star Health,47310.36,Stable,2026-01-02,No,3
+1008,Deepa Nair,2025-10-28,ER,G40.9,Dr. Shalini,LIC,30896.34,Stable,2025-11-08,No,11
+1036,Karthik Raja,2025-05-10,Oncology,I21.9,Dr. Shalini,HDFC Ergo,22467.65,Critical,2025-05-20,No,10
+1026,Sanjay Viswanathan,2025-05-27,Neurology,C34.9,Dr. Aditi,LIC,33947.97,Stable,2025-06-03,No,7
+1062,Karthik Raja,2025-09-22,Cardiology,J45.9,Dr. Aditi,Out-of-Pocket,25621.38,Critical,,Yes,175
+1068,Rohan Gupta,2025-09-11,Pediatrics,E11.9,Dr. Murugan,Out-of-Pocket,29552.76,Critical,2025-09-13,No,2
+1061,Sanjay Viswanathan,2025-08-09,Neurology,I21.9,Dr. Vikram,Star Health,47365.92,Critical,2025-08-23,No,14
+1026,Vijay Sethupathi,2025-01-26,ER,J45.9,Dr. Aditi,Star Health,22374.62,Stable,2025-01-28,No,2
+1023,Rohan Gupta,2025-05-31,Cardiology,G40.9,Dr. Aditi,Out-of-Pocket,48253.58,Stable,2025-06-13,No,13
+1054,Karthik Raja,2025-12-13,Oncology,I21.9,Dr. Shalini,LIC,45740.78,Recovering,2025-12-17,No,4
+1028,Vijay Sethupathi,2025-11-08,Pediatrics,C34.9,Dr. Murugan,HDFC Ergo,13810.6,Stable,2025-11-09,No,1
+1049,Meera Krishnan,2025-07-03,Oncology,C34.9,Dr. Aditi,HDFC Ergo,8121.26,Recovering,2025-07-06,No,3
+1068,Arun Kumar,2025-04-18,ER,E11.9,Dr. Rajesh,Out-of-Pocket,9535.01,Stable,,Yes,332
+1069,Sanjay Viswanathan,2025-11-26,ER,I21.9,Dr. Aditi,Out-of-Pocket,5819.98,Critical,2025-12-05,No,9
+1097,Rohan Gupta,2025-06-19,ER,I21.9,Dr. Vikram,HDFC Ergo,9249.93,Pending Assessment,2025-06-26,No,7
+1030,Deepa Nair,2025-02-05,Oncology,J45.9,Dr. Murugan,LIC,35735.3,Recovering,2025-02-12,No,7
+1100,Vijay Sethupathi,2025-10-24,ER,G40.9,Dr. Aditi,LIC,8203.49,Stable,2025-11-06,No,13
+1043,Vijay Sethupathi,2025-07-23,Neurology,J45.9,Dr. Aditi,LIC,19353.9,Critical,2025-08-05,No,13
+1077,Rohan Gupta,2025-07-17,ER,G40.9,Dr. Murugan,LIC,43019.39,Stable,2025-07-28,No,11
+1036,Deepa Nair,2025-04-29,Cardiology,C34.9,Dr. Shalini,Star Health,6047.24,Critical,2025-05-03,No,4
+1039,Sanjay Viswanathan,2025-12-22,Oncology,E11.9,Dr. Aditi,Out-of-Pocket,41651.08,Stable,,Yes,84
+1015,Priya Sharma,2025-01-24,Pediatrics,I21.9,Dr. Vikram,Out-of-Pocket,17683.46,Critical,2025-02-07,No,14
+1018,Sanjay Viswanathan,2025-01-02,Neurology,G40.9,Dr. Shalini,Star Health,10317.42,Stable,2025-01-06,No,4
+1009,Arun Kumar,2025-09-03,Cardiology,C34.9,Dr. Murugan,HDFC Ergo,36353.17,Critical,2025-09-09,No,6
+1035,Arun Kumar,2025-04-04,Cardiology,C34.9,Dr. Murugan,Out-of-Pocket,33302.43,Stable,,Yes,346
+1054,Meera Krishnan,2025-10-25,ER,E11.9,Dr. Rajesh,HDFC Ergo,44486.24,Stable,2025-11-05,No,11
+1096,Vijay Sethupathi,2025-02-08,ER,G40.9,Dr. Vikram,Star Health,38078.2,Critical,2025-02-11,No,3
+1099,Priya Sharma,2026-01-01,Neurology,I21.9,Dr. Vikram,HDFC Ergo,41156.64,Stable,2026-01-02,No,1
+1029,Anitha Raj,2025-01-29,Cardiology,E11.9,Dr. Rajesh,LIC,17691.56,Stable,2025-02-12,No,14
+1076,Karthik Raja,2025-02-16,ER,E11.9,Dr. Shalini,Star Health,12984.78,Stable,2025-02-28,No,12
+1090,Vijay Sethupathi,2025-04-05,Neurology,C34.9,Dr. Shalini,HDFC Ergo,38777.66,Critical,2025-04-13,No,8
+1098,Anitha Raj,2025-04-16,Neurology,E11.9,Dr. Rajesh,LIC,41307.56,Stable,2025-04-28,No,12
+1039,Meera Krishnan,2025-04-05,Pediatrics,C34.9,Dr. Murugan,Out-of-Pocket,49572.73,Stable,2025-04-18,No,13
+1060,Deepa Nair,2025-08-25,Oncology,G40.9,Dr. Vikram,Star Health,23567.8,Stable,2025-08-30,No,5
+1020,Rohan Gupta,2025-07-06,ER,J45.9,Dr. Aditi,Star Health,21740.81,Stable,2025-07-11,No,5
+1075,Vijay Sethupathi,2025-11-01,Cardiology,J45.9,Dr. Murugan,Out-of-Pocket,39938.58,Critical,2025-11-12,No,11
+1072,Deepa Nair,2025-02-25,Neurology,I21.9,Dr. Aditi,Out-of-Pocket,20336.16,Recovering,2025-03-01,No,4
+1029,Deepa Nair,2025-05-31,Oncology,C34.9,Dr. Vikram,Out-of-Pocket,46884.08,Critical,2025-06-06,No,6
+1062,Karthik Raja,2025-05-10,Pediatrics,G40.9,Dr. Vikram,Star Health,43628.57,Critical,2025-05-13,No,3
+1052,Rohan Gupta,2025-04-30,Cardiology,C34.9,Dr. Aditi,Out-of-Pocket,24304.73,Stable,2025-05-09,No,9
+1083,Sanjay Viswanathan,2025-05-28,Cardiology,G40.9,Dr. Rajesh,Star Health,38789.2,Stable,2025-06-02,No,5
+1057,Rohan Gupta,2025-10-13,ER,I21.9,Dr. Rajesh,Out-of-Pocket,38954.43,Pending Assessment,2025-10-16,No,3
+1038,Meera Krishnan,2025-04-20,ER,J45.9,Dr. Aditi,Out-of-Pocket,9640.57,Stable,2025-05-01,No,11
+1016,Vijay Sethupathi,2025-01-01,ER,E11.9,Dr. Shalini,HDFC Ergo,45614.88,Stable,2025-01-02,No,1
+1035,Deepa Nair,2025-08-04,Oncology,I21.9,Dr. Shalini,Out-of-Pocket,27736.36,Stable,2025-08-14,No,10
+1061,Karthik Raja,2025-07-24,Cardiology,I21.9,Dr. Rajesh,Out-of-Pocket,42190.59,Stable,2025-08-05,No,12
+1083,Sanjay Viswanathan,2025-03-07,ER,I21.9,Dr. Murugan,HDFC Ergo,19402.23,Stable,2025-03-13,No,6
+1007,Meera Krishnan,2025-01-04,Cardiology,E11.9,Dr. Murugan,Star Health,45298.55,Stable,2025-01-06,No,2
+1035,Karthik Raja,2025-03-11,Pediatrics,J45.9,Dr. Murugan,LIC,22514.08,Critical,2025-03-24,No,13
+1071,Sneha Kapoor,2025-01-26,Cardiology,C34.9,Dr. Shalini,HDFC Ergo,5487.69,Recovering,2025-01-29,No,3
+1067,Karthik Raja,2025-06-22,Cardiology,C34.9,Dr. Vikram,Star Health,45742.19,Stable,2025-06-23,No,1
+1087,Priya Sharma,2025-07-02,ER,J45.9,Dr. Rajesh,HDFC Ergo,9107.9,Recovering,2025-07-11,No,9
+1009,Vijay Sethupathi,2025-07-07,Cardiology,I21.9,Dr. Shalini,HDFC Ergo,19369.11,Stable,2025-07-15,No,8
+1004,Sanjay Viswanathan,2025-09-21,Oncology,G40.9,Dr. Aditi,Star Health,47752.79,Recovering,2025-10-03,No,12
+1031,Rohan Gupta,2025-05-25,Oncology,C34.9,Dr. Murugan,LIC,47777.32,Stable,2025-05-27,No,2
+1040,Sneha Kapoor,2025-12-08,Oncology,I21.9,Dr. Rajesh,Out-of-Pocket,30804.7,Critical,2025-12-20,No,12
+1093,Anitha Raj,2025-03-04,Oncology,I21.9,Dr. Vikram,LIC,33432.67,Critical,2025-03-15,No,11
+1060,Deepa Nair,2025-03-05,Oncology,E11.9,Dr. Murugan,Star Health,25180.05,Recovering,2025-03-13,No,8
+1070,Sneha Kapoor,2025-07-07,Cardiology,J45.9,Dr. Vikram,Star Health,18194.48,Stable,2025-07-19,No,12
+1081,Vijay Sethupathi,2025-01-23,Neurology,G40.9,Dr. Shalini,Star Health,19789.9,Stable,2025-02-06,No,14
+1005,Rohan Gupta,2025-09-18,Pediatrics,J45.9,Dr. Shalini,Out-of-Pocket,35263.33,Stable,2025-09-27,No,9
+1046,Anitha Raj,2025-08-02,ER,J45.9,Dr. Murugan,Out-of-Pocket,38856.85,Stable,2025-08-03,No,1
+1035,Deepa Nair,2025-09-25,Oncology,C34.9,Dr. Rajesh,LIC,40621.06,Stable,2025-10-08,No,13
+1080,Arun Kumar,2025-04-25,Pediatrics,G40.9,Dr. Vikram,Star Health,40532.82,Pending Assessment,2025-04-30,No,5
+1052,Priya Sharma,2025-04-21,ER,C34.9,Dr. Rajesh,LIC,9104.27,Stable,2025-04-29,No,8
+1014,Priya Sharma,2025-07-09,ER,I21.9,Dr. Rajesh,Out-of-Pocket,27248.91,Critical,,Yes,250
+1096,Sneha Kapoor,2025-05-08,Pediatrics,C34.9,Dr. Vikram,Out-of-Pocket,7590.14,Recovering,2025-05-22,No,14
+1031,Karthik Raja,2025-05-15,Neurology,I21.9,Dr. Vikram,LIC,29728.8,Stable,2025-05-17,No,2
+1026,Deepa Nair,2025-09-16,ER,G40.9,Dr. Rajesh,Out-of-Pocket,24868.87,Critical,2025-09-20,No,4
+1013,Rohan Gupta,2025-11-05,ER,J45.9,Dr. Murugan,LIC,44946.69,Recovering,2025-11-12,No,7
+1042,Anitha Raj,2025-08-28,ER,C34.9,Dr. Vikram,LIC,20791.18,Critical,2025-08-31,No,3
+1037,Arun Kumar,2025-10-13,Cardiology,C34.9,Dr. Rajesh,LIC,10268.02,Stable,2025-10-26,No,13
+1025,Arun Kumar,2025-11-28,Neurology,I21.9,Dr. Rajesh,HDFC Ergo,11434.63,Critical,2025-12-10,No,12
+1058,Anitha Raj,2025-06-19,Pediatrics,C34.9,Dr. Rajesh,Star Health,39267.98,Recovering,2025-06-24,No,5
+1090,Meera Krishnan,2025-05-12,Pediatrics,I21.9,Dr. Rajesh,Star Health,32819.81,Stable,2025-05-20,No,8
+1062,Sanjay Viswanathan,2025-08-25,Pediatrics,I21.9,Dr. Vikram,HDFC Ergo,9550.52,Critical,2025-09-06,No,12
+1080,Anitha Raj,2025-02-17,Oncology,G40.9,Dr. Vikram,HDFC Ergo,8784.81,Stable,2025-02-27,No,10
+1099,Meera Krishnan,2025-01-28,Oncology,I21.9,Dr. Aditi,HDFC Ergo,36543.61,Recovering,2025-01-31,No,3
+1077,Sneha Kapoor,2025-06-09,Neurology,E11.9,Dr. Rajesh,Star Health,8274.34,Critical,2025-06-13,No,4
+1072,Rohan Gupta,2025-05-18,Neurology,C34.9,Dr. Rajesh,Star Health,41983.7,Stable,2025-06-01,No,14
+1002,Sneha Kapoor,2025-05-17,ER,E11.9,Dr. Aditi,Star Health,36780.9,Stable,2025-05-26,No,9
+1034,Vijay Sethupathi,2025-07-17,Neurology,I21.9,Dr. Vikram,Star Health,8660.7,Stable,2025-07-31,No,14
+1081,Rohan Gupta,2025-02-09,Neurology,J45.9,Dr. Vikram,HDFC Ergo,8817.7,Stable,2025-02-23,No,14
+1053,Deepa Nair,2025-03-27,Neurology,J45.9,Dr. Aditi,LIC,49398.78,Pending Assessment,2025-04-03,No,7
+1095,Karthik Raja,2025-08-15,Cardiology,J45.9,Dr. Rajesh,HDFC Ergo,21842.19,Critical,2025-08-16,No,1
+1015,Deepa Nair,2025-09-01,Oncology,E11.9,Dr. Rajesh,HDFC Ergo,21678.9,Critical,2025-09-15,No,14
+1013,Anitha Raj,2025-08-08,ER,C34.9,Dr. Rajesh,Star Health,41575.98,Recovering,,Yes,220
+1073,Anitha Raj,2025-03-10,ER,I21.9,Dr. Rajesh,Out-of-Pocket,47626.19,Stable,2025-03-14,No,4
+1029,Deepa Nair,2025-05-03,Cardiology,G40.9,Dr. Shalini,LIC,49370.05,Stable,2025-05-07,No,4
+1041,Deepa Nair,2025-01-12,ER,J45.9,Dr. Rajesh,Out-of-Pocket,38902.02,Stable,2025-01-21,No,9
+1059,Deepa Nair,2025-08-29,Pediatrics,J45.9,Dr. Murugan,Star Health,21931.68,Critical,2025-09-04,No,6
+1086,Priya Sharma,2025-02-12,Neurology,C34.9,Dr. Aditi,Out-of-Pocket,8757.53,Stable,2025-02-21,No,9
+1020,Meera Krishnan,2025-08-20,Cardiology,C34.9,Dr. Shalini,HDFC Ergo,39971.61,Stable,2025-09-01,No,12
+1010,Vijay Sethupathi,2025-12-20,Pediatrics,I21.9,Dr. Vikram,LIC,30128.19,Critical,2025-12-26,No,6
+1053,Meera Krishnan,2025-10-12,Oncology,J45.9,Dr. Rajesh,LIC,24089.99,Stable,2025-10-18,No,6
+1014,Priya Sharma,2025-05-27,Oncology,C34.9,Dr. Murugan,Out-of-Pocket,45785.95,Stable,2025-06-01,No,5
+1088,Karthik Raja,2025-05-12,Cardiology,E11.9,Dr. Vikram,Star Health,10003.89,Stable,2025-05-17,No,5
+1022,Meera Krishnan,2025-02-22,Cardiology,J45.9,Dr. Vikram,HDFC Ergo,27168.13,Critical,2025-02-24,No,2
+1057,Karthik Raja,2025-06-27,Cardiology,E11.9,Dr. Shalini,Out-of-Pocket,5510.91,Stable,2025-07-05,No,8
+1003,Deepa Nair,2025-07-19,Neurology,J45.9,Dr. Rajesh,Out-of-Pocket,26089.73,Pending Assessment,2025-07-27,No,8
+1025,Sanjay Viswanathan,2025-11-15,Oncology,C34.9,Dr. Rajesh,Star Health,7533.65,Recovering,2025-11-26,No,11
+1078,Meera Krishnan,2025-04-12,Pediatrics,J45.9,Dr. Vikram,HDFC Ergo,10346.81,Critical,2025-04-25,No,13
+1022,Deepa Nair,2025-03-29,ER,I21.9,Dr. Vikram,Star Health,10288.68,Critical,2025-03-30,No,1
+1071,Karthik Raja,2025-06-26,Neurology,J45.9,Dr. Aditi,Out-of-Pocket,34214.46,Pending Assessment,2025-07-04,No,8
+1081,Vijay Sethupathi,2025-06-04,ER,I21.9,Dr. Murugan,LIC,38572.02,Stable,2025-06-09,No,5
+1011,Meera Krishnan,2025-07-31,Cardiology,G40.9,Dr. Aditi,HDFC Ergo,31251.59,Pending Assessment,2025-08-02,No,2
+1100,Vijay Sethupathi,2025-07-28,Pediatrics,I21.9,Dr. Shalini,Star Health,48297.76,Recovering,2025-08-11,No,14
+1033,Priya Sharma,2025-04-04,Neurology,I21.9,Dr. Aditi,LIC,21869.18,Stable,2025-04-06,No,2
+1089,Vijay Sethupathi,2025-10-05,Cardiology,C34.9,Dr. Murugan,LIC,17857.04,Recovering,2025-10-19,No,14
+1003,Deepa Nair,2025-07-20,ER,C34.9,Dr. Shalini,Out-of-Pocket,44086.96,Critical,2025-07-26,No,6
+1021,Karthik Raja,2025-09-27,ER,I21.9,Dr. Murugan,LIC,15061.81,Recovering,2025-10-08,No,11
+1055,Karthik Raja,2025-07-04,Oncology,J45.9,Dr. Murugan,LIC,48345.01,Stable,2025-07-17,No,13
+1089,Rohan Gupta,2025-09-15,ER,C34.9,Dr. Aditi,Star Health,5546.95,Stable,2025-09-24,No,9
+1015,Arun Kumar,2025-09-19,Oncology,G40.9,Dr. Vikram,Out-of-Pocket,48644.55,Critical,2025-09-20,No,1
+1060,Sanjay Viswanathan,2025-07-27,Neurology,E11.9,Dr. Rajesh,Star Health,6942.2,Stable,2025-08-08,No,12
+1031,Meera Krishnan,2025-03-08,ER,C34.9,Dr. Shalini,Out-of-Pocket,45101.44,Stable,2025-03-14,No,6
+1037,Meera Krishnan,2025-08-08,ER,C34.9,Dr. Aditi,LIC,28746.55,Recovering,2025-08-17,No,9
+1090,Anitha Raj,2025-04-07,Pediatrics,C34.9,Dr. Murugan,Star Health,49683.42,Stable,2025-04-15,No,8
+1065,Rohan Gupta,2025-10-09,Oncology,G40.9,Dr. Shalini,LIC,8320.85,Recovering,2025-10-20,No,11
+1084,Rohan Gupta,2025-03-03,Oncology,I21.9,Dr. Vikram,HDFC Ergo,29923.44,Critical,2025-03-09,No,6
+1006,Karthik Raja,2025-01-06,Cardiology,G40.9,Dr. Murugan,Star Health,48618.61,Critical,2025-01-09,No,3
+1085,Anitha Raj,2025-04-07,Oncology,E11.9,Dr. Murugan,HDFC Ergo,28539.4,Stable,2025-04-15,No,8
+1023,Arun Kumar,2025-04-19,Neurology,C34.9,Dr. Rajesh,Star Health,33322.94,Pending Assessment,2025-04-28,No,9
+1048,Vijay Sethupathi,2025-09-22,Oncology,J45.9,Dr. Shalini,LIC,36308.69,Stable,2025-09-23,No,1
+1007,Sanjay Viswanathan,2025-01-31,Cardiology,J45.9,Dr. Rajesh,Out-of-Pocket,25454.35,Stable,2025-02-12,No,12
+1091,Sanjay Viswanathan,2025-08-20,Oncology,C34.9,Dr. Rajesh,Out-of-Pocket,33240.11,Recovering,2025-08-29,No,9
+1063,Rohan Gupta,2025-06-11,Oncology,I21.9,Dr. Murugan,HDFC Ergo,31294.14,Stable,2025-06-25,No,14
+1030,Anitha Raj,2025-01-13,Oncology,E11.9,Dr. Rajesh,Out-of-Pocket,45552.11,Critical,,Yes,427
+1039,Sanjay Viswanathan,2025-07-23,Neurology,G40.9,Dr. Rajesh,LIC,7045.09,Critical,2025-07-29,No,6
+1017,Deepa Nair,2025-06-22,ER,E11.9,Dr. Shalini,Out-of-Pocket,17643.34,Critical,2025-07-04,No,12
+1014,Deepa Nair,2025-05-16,Neurology,E11.9,Dr. Aditi,LIC,47768.52,Stable,2025-05-20,No,4
+1082,Rohan Gupta,2025-11-28,Pediatrics,J45.9,Dr. Murugan,HDFC Ergo,45061.87,Critical,2025-11-29,No,1
+1060,Sanjay Viswanathan,2025-11-14,Pediatrics,G40.9,Dr. Shalini,LIC,25504.55,Critical,2025-11-24,No,10
+1039,Sneha Kapoor,2025-08-06,Cardiology,I21.9,Dr. Shalini,HDFC Ergo,32905.97,Stable,2025-08-14,No,8
+1082,Anitha Raj,2025-07-28,Pediatrics,C34.9,Dr. Aditi,HDFC Ergo,17482.15,Recovering,2025-07-30,No,2
+1051,Meera Krishnan,2025-06-12,Neurology,J45.9,Dr. Rajesh,Out-of-Pocket,13465.45,Stable,2025-06-24,No,12
+1071,Vijay Sethupathi,2025-02-20,Cardiology,J45.9,Dr. Rajesh,Out-of-Pocket,25866.43,Critical,2025-02-21,No,1
+1079,Sanjay Viswanathan,2025-09-28,Pediatrics,E11.9,Dr. Aditi,Out-of-Pocket,20900.85,Stable,2025-09-30,No,2
+1086,Anitha Raj,2025-07-11,ER,I21.9,Dr. Rajesh,Star Health,31264.53,Recovering,2025-07-12,No,1
+1043,Deepa Nair,2025-12-03,Pediatrics,C34.9,Dr. Rajesh,Out-of-Pocket,8498.06,Stable,2025-12-04,No,1
+1049,Anitha Raj,2025-03-13,Cardiology,I21.9,Dr. Shalini,Star Health,48847.77,Stable,2025-03-22,No,9
+1025,Karthik Raja,2025-04-07,ER,E11.9,Dr. Shalini,HDFC Ergo,49379.48,Stable,2025-04-20,No,13
+1065,Sneha Kapoor,2025-04-25,ER,E11.9,Dr. Rajesh,LIC,36417.28,Stable,2025-05-09,No,14
+1017,Priya Sharma,2025-01-07,Neurology,C34.9,Dr. Aditi,Star Health,29124.34,Stable,2025-01-08,No,1
+1004,Meera Krishnan,2025-01-10,ER,E11.9,Dr. Vikram,Star Health,18928.74,Stable,2025-01-23,No,13
+1074,Meera Krishnan,2025-05-30,ER,E11.9,Dr. Murugan,LIC,41620.78,Recovering,2025-06-03,No,4
+1099,Arun Kumar,2025-03-30,Pediatrics,G40.9,Dr. Shalini,Out-of-Pocket,35812.9,Recovering,2025-04-09,No,10
+1092,Sanjay Viswanathan,2025-02-18,Pediatrics,C34.9,Dr. Murugan,LIC,12317.76,Stable,2025-02-24,No,6
+1069,Anitha Raj,2025-07-19,ER,J45.9,Dr. Murugan,Star Health,45991.72,Critical,2025-07-26,No,7
+1063,Rohan Gupta,2025-05-17,Oncology,E11.9,Dr. Shalini,Out-of-Pocket,42014.18,Critical,2025-05-19,No,2
+1041,Sneha Kapoor,2025-10-10,ER,E11.9,Dr. Aditi,HDFC Ergo,47741.0,Critical,2025-10-16,No,6
+1084,Meera Krishnan,2025-12-01,ER,I21.9,Dr. Murugan,HDFC Ergo,37657.38,Stable,2025-12-08,No,7
+1065,Priya Sharma,2025-07-19,Pediatrics,I21.9,Dr. Vikram,Star Health,32603.68,Critical,2025-07-29,No,10
+1056,Vijay Sethupathi,2025-11-14,Pediatrics,G40.9,Dr. Aditi,LIC,23820.94,Pending Assessment,2025-11-28,No,14
+1081,Karthik Raja,2025-02-07,ER,C34.9,Dr. Aditi,Out-of-Pocket,46972.78,Critical,,Yes,402
+1012,Deepa Nair,2025-08-16,Pediatrics,J45.9,Dr. Murugan,LIC,43972.88,Recovering,2025-08-18,No,2
+1076,Priya Sharma,2025-08-25,ER,I21.9,Dr. Rajesh,LIC,7034.84,Critical,2025-08-27,No,2
+1081,Rohan Gupta,2025-01-25,Oncology,E11.9,Dr. Shalini,HDFC Ergo,6186.51,Stable,2025-02-04,No,10
+1053,Sneha Kapoor,2025-07-21,Neurology,G40.9,Dr. Murugan,HDFC Ergo,21940.85,Stable,2025-07-28,No,7
+1025,Rohan Gupta,2025-09-27,Neurology,E11.9,Dr. Murugan,Star Health,41474.9,Stable,2025-10-09,No,12
+1095,Deepa Nair,2025-06-30,Cardiology,C34.9,Dr. Rajesh,HDFC Ergo,49427.43,Stable,2025-07-01,No,1
+1030,Karthik Raja,2025-10-04,Neurology,G40.9,Dr. Shalini,Out-of-Pocket,11768.76,Stable,2025-10-12,No,8
+1026,Arun Kumar,2025-10-28,Oncology,E11.9,Dr. Murugan,Out-of-Pocket,31735.88,Recovering,2025-11-08,No,11
+1086,Deepa Nair,2025-08-22,Neurology,E11.9,Dr. Aditi,Star Health,22140.09,Stable,2025-09-04,No,13
+1032,Vijay Sethupathi,2025-07-25,Cardiology,I21.9,Dr. Aditi,HDFC Ergo,48646.15,Stable,2025-07-28,No,3
+1065,Anitha Raj,2025-12-20,Pediatrics,C34.9,Dr. Murugan,Star Health,42895.35,Stable,2025-12-31,No,11
+1094,Anitha Raj,2025-11-09,Neurology,G40.9,Dr. Aditi,Out-of-Pocket,42724.79,Pending Assessment,2025-11-15,No,6
+1070,Meera Krishnan,2025-08-12,Neurology,I21.9,Dr. Aditi,LIC,26091.19,Recovering,2025-08-21,No,9
+1080,Anitha Raj,2025-04-18,ER,C34.9,Dr. Shalini,HDFC Ergo,23666.88,Stable,2025-04-24,No,6
+1030,Rohan Gupta,2025-07-17,ER,I21.9,Dr. Murugan,Star Health,17303.32,Stable,2025-07-26,No,9
+1036,Priya Sharma,2025-08-28,Cardiology,E11.9,Dr. Rajesh,Out-of-Pocket,7536.9,Critical,2025-09-04,No,7
+1099,Rohan Gupta,2025-12-05,Oncology,G40.9,Dr. Vikram,HDFC Ergo,43912.51,Pending Assessment,2025-12-14,No,9
+1061,Rohan Gupta,2025-02-07,Neurology,J45.9,Dr. Rajesh,HDFC Ergo,41580.55,Pending Assessment,2025-02-09,No,2
+1075,Arun Kumar,2025-01-24,Oncology,C34.9,Dr. Aditi,Star Health,49987.3,Critical,2025-02-05,No,12
+1081,Vijay Sethupathi,2025-11-27,Oncology,C34.9,Dr. Shalini,Out-of-Pocket,49848.66,Stable,2025-12-05,No,8
+1053,Meera Krishnan,2025-01-10,Oncology,E11.9,Dr. Vikram,Out-of-Pocket,29994.43,Stable,2025-01-18,No,8
+1071,Vijay Sethupathi,2025-12-01,Neurology,C34.9,Dr. Rajesh,Star Health,39604.43,Stable,2025-12-03,No,2
+1005,Karthik Raja,2025-02-17,Oncology,I21.9,Dr. Shalini,LIC,47514.46,Recovering,2025-03-01,No,12
+1004,Arun Kumar,2025-04-07,ER,E11.9,Dr. Shalini,Out-of-Pocket,43234.13,Stable,2025-04-21,No,14
+1044,Rohan Gupta,2025-05-11,Cardiology,I21.9,Dr. Aditi,Star Health,16130.66,Recovering,2025-05-15,No,4
+1064,Karthik Raja,2025-10-28,Neurology,C34.9,Dr. Rajesh,Star Health,25274.49,Stable,2025-11-11,No,14
+1017,Priya Sharma,2025-06-08,Pediatrics,J45.9,Dr. Shalini,Out-of-Pocket,10812.17,Critical,2025-06-19,No,11
+1061,Karthik Raja,2025-11-25,Neurology,I21.9,Dr. Rajesh,LIC,47932.3,Stable,2025-12-02,No,7
+1050,Priya Sharma,2025-11-16,Cardiology,C34.9,Dr. Aditi,LIC,32277.86,Recovering,2025-11-27,No,11
+1030,Deepa Nair,2025-01-31,Neurology,E11.9,Dr. Vikram,Star Health,15288.93,Recovering,2025-02-04,No,4
+1093,Meera Krishnan,2025-10-27,Pediatrics,E11.9,Dr. Vikram,HDFC Ergo,35226.53,Stable,2025-10-31,No,4
+1004,Vijay Sethupathi,2025-01-08,Pediatrics,J45.9,Dr. Aditi,Out-of-Pocket,32815.77,Stable,2025-01-14,No,6
+1089,Anitha Raj,2025-05-31,Cardiology,I21.9,Dr. Aditi,HDFC Ergo,21117.32,Critical,2025-06-10,No,10
+1017,Meera Krishnan,2025-09-03,Cardiology,I21.9,Dr. Murugan,HDFC Ergo,10110.09,Critical,2025-09-09,No,6
+1080,Priya Sharma,2025-09-04,ER,J45.9,Dr. Vikram,HDFC Ergo,35220.79,Critical,2025-09-14,No,10
+1054,Arun Kumar,2025-04-05,Cardiology,E11.9,Dr. Vikram,Star Health,28413.85,Critical,2025-04-08,No,3
+1100,Vijay Sethupathi,2025-08-24,Neurology,J45.9,Dr. Murugan,LIC,39754.33,Recovering,2025-09-02,No,9
+1057,Sanjay Viswanathan,2025-01-23,Cardiology,C34.9,Dr. Murugan,LIC,28407.36,Recovering,,Yes,417
+1092,Deepa Nair,2025-03-14,Neurology,C34.9,Dr. Rajesh,Out-of-Pocket,43348.17,Critical,2025-03-24,No,10
+1050,Sneha Kapoor,2025-10-30,Neurology,E11.9,Dr. Murugan,LIC,29835.81,Stable,2025-11-13,No,14
+1093,Arun Kumar,2025-01-12,ER,C34.9,Dr. Shalini,HDFC Ergo,30242.21,Stable,2025-01-23,No,11
+1032,Sanjay Viswanathan,2025-10-12,Oncology,E11.9,Dr. Shalini,Out-of-Pocket,44449.41,Stable,2025-10-14,No,2
+1052,Vijay Sethupathi,2025-11-29,Pediatrics,E11.9,Dr. Murugan,LIC,23156.73,Recovering,2025-12-05,No,6
+1069,Meera Krishnan,2025-08-05,Neurology,J45.9,Dr. Aditi,Star Health,11030.69,Stable,2025-08-17,No,12
+1052,Anitha Raj,2025-07-20,Pediatrics,J45.9,Dr. Murugan,LIC,6295.22,Stable,2025-07-27,No,7
+1016,Rohan Gupta,2025-12-19,ER,C34.9,Dr. Rajesh,HDFC Ergo,38981.18,Critical,,Yes,87
+1045,Arun Kumar,2025-02-15,Pediatrics,E11.9,Dr. Vikram,HDFC Ergo,32913.93,Stable,2025-02-28,No,13
+1051,Anitha Raj,2025-09-12,Oncology,I21.9,Dr. Vikram,HDFC Ergo,36683.59,Critical,2025-09-21,No,9
+1018,Meera Krishnan,2025-03-03,ER,C34.9,Dr. Aditi,Out-of-Pocket,14583.39,Stable,2025-03-16,No,13
+1068,Meera Krishnan,2025-10-29,Oncology,C34.9,Dr. Aditi,Out-of-Pocket,11136.72,Critical,2025-11-01,No,3
+1017,Sneha Kapoor,2025-04-22,Neurology,G40.9,Dr. Murugan,LIC,5654.51,Stable,2025-05-02,No,10
+1014,Sanjay Viswanathan,2025-08-19,ER,E11.9,Dr. Aditi,Out-of-Pocket,20776.44,Critical,,Yes,209
+1035,Meera Krishnan,2025-02-22,Neurology,I21.9,Dr. Rajesh,Star Health,31546.3,Critical,,Yes,387
+1066,Vijay Sethupathi,2025-04-18,Oncology,E11.9,Dr. Murugan,HDFC Ergo,22650.98,Stable,2025-05-02,No,14
+1032,Arun Kumar,2025-05-31,Oncology,I21.9,Dr. Murugan,Out-of-Pocket,24686.37,Stable,2025-06-04,No,4
+1025,Karthik Raja,2025-05-15,ER,C34.9,Dr. Vikram,LIC,45687.14,Recovering,2025-05-28,No,13
+1007,Priya Sharma,2025-06-25,Neurology,J45.9,Dr. Aditi,Star Health,20671.5,Recovering,,Yes,264
+1090,Meera Krishnan,2025-01-29,Neurology,G40.9,Dr. Shalini,Star Health,28129.53,Stable,2025-02-11,No,13
+1074,Arun Kumar,2025-11-25,Pediatrics,C34.9,Dr. Aditi,HDFC Ergo,40264.39,Recovering,2025-12-02,No,7
+1063,Sneha Kapoor,2025-04-26,Pediatrics,C34.9,Dr. Rajesh,LIC,22844.43,Recovering,,Yes,324
+1010,Priya Sharma,2025-12-25,Cardiology,J45.9,Dr. Aditi,HDFC Ergo,32993.9,Critical,2026-01-01,No,7
+1034,Meera Krishnan,2025-09-19,Oncology,C34.9,Dr. Murugan,Out-of-Pocket,43806.37,Recovering,,Yes,178
+1001,Priya Sharma,2025-08-28,ER,I21.9,Dr. Vikram,LIC,47728.43,Recovering,2025-09-09,No,12
+1092,Deepa Nair,2025-02-07,Pediatrics,G40.9,Dr. Vikram,HDFC Ergo,11618.31,Recovering,,Yes,402
+1089,Priya Sharma,2025-07-18,ER,I21.9,Dr. Rajesh,LIC,46696.44,Pending Assessment,2025-07-24,No,6
+1025,Sanjay Viswanathan,2025-01-28,Oncology,I21.9,Dr. Rajesh,Out-of-Pocket,27145.23,Stable,2025-01-30,No,2
+1087,Deepa Nair,2025-01-16,Cardiology,G40.9,Dr. Shalini,LIC,16621.0,Critical,2025-01-19,No,3
+1075,Anitha Raj,2025-10-20,Cardiology,J45.9,Dr. Aditi,Out-of-Pocket,25661.11,Stable,2025-10-26,No,6
+1001,Meera Krishnan,2025-12-20,ER,G40.9,Dr. Rajesh,Star Health,49101.47,Critical,2025-12-25,No,5
+1005,Deepa Nair,2025-06-16,Neurology,E11.9,Dr. Aditi,Out-of-Pocket,27167.81,Stable,2025-06-24,No,8
+1006,Rohan Gupta,2025-12-13,Cardiology,E11.9,Dr. Murugan,Star Health,19793.82,Recovering,,Yes,93
+1006,Anitha Raj,2025-10-29,Cardiology,I21.9,Dr. Murugan,Out-of-Pocket,33503.04,Stable,2025-11-09,No,11
+1003,Arun Kumar,2025-08-14,Neurology,J45.9,Dr. Rajesh,LIC,15806.55,Stable,2025-08-17,No,3
+1085,Deepa Nair,2025-06-30,ER,E11.9,Dr. Rajesh,Out-of-Pocket,8413.85,Recovering,2025-07-12,No,12
+1000,Rohan Gupta,2025-11-18,Pediatrics,G40.9,Dr. Vikram,Star Health,10799.59,Pending Assessment,,Yes,118
+1049,Deepa Nair,2025-04-14,Oncology,J45.9,Dr. Shalini,HDFC Ergo,10762.06,Recovering,2025-04-17,No,3
+1064,Rohan Gupta,2025-05-23,Neurology,C34.9,Dr. Vikram,Star Health,11835.62,Stable,2025-05-26,No,3
+1095,Arun Kumar,2025-04-02,Oncology,I21.9,Dr. Aditi,HDFC Ergo,11247.22,Recovering,2025-04-15,No,13
+1065,Sneha Kapoor,2025-03-27,Cardiology,J45.9,Dr. Aditi,Star Health,33839.36,Stable,2025-04-09,No,13
+1073,Priya Sharma,2025-12-08,Cardiology,G40.9,Dr. Murugan,LIC,13184.6,Stable,2025-12-14,No,6
+1007,Priya Sharma,2025-09-19,Cardiology,J45.9,Dr. Vikram,Out-of-Pocket,20555.03,Critical,2025-09-20,No,1
+1016,Karthik Raja,2025-08-04,Pediatrics,E11.9,Dr. Rajesh,LIC,45355.48,Stable,2025-08-11,No,7
+1015,Karthik Raja,2025-09-17,ER,C34.9,Dr. Rajesh,Out-of-Pocket,26328.27,Recovering,2025-09-29,No,12
+1082,Rohan Gupta,2025-04-18,ER,J45.9,Dr. Aditi,HDFC Ergo,35040.1,Stable,2025-04-19,No,1
+1005,Karthik Raja,2025-12-31,Oncology,J45.9,Dr. Murugan,Star Health,12754.39,Critical,2026-01-14,No,14
+1012,Rohan Gupta,2025-07-10,ER,I21.9,Dr. Murugan,Out-of-Pocket,13653.01,Critical,2025-07-15,No,5
+1075,Priya Sharma,2025-11-01,Oncology,C34.9,Dr. Vikram,LIC,6839.09,Stable,2025-11-11,No,10
+1022,Priya Sharma,2025-12-30,Pediatrics,I21.9,Dr. Vikram,LIC,12602.08,Pending Assessment,2026-01-12,No,13
+1016,Rohan Gupta,2025-11-22,Oncology,C34.9,Dr. Murugan,HDFC Ergo,17536.57,Stable,2025-11-30,No,8
+1006,Sanjay Viswanathan,2025-07-13,Pediatrics,J45.9,Dr. Aditi,Out-of-Pocket,12965.47,Critical,2025-07-17,No,4
+1068,Vijay Sethupathi,2025-06-13,ER,I21.9,Dr. Vikram,HDFC Ergo,8991.61,Stable,2025-06-18,No,5
+1015,Sanjay Viswanathan,2025-08-19,Neurology,G40.9,Dr. Aditi,Star Health,10428.61,Recovering,2025-08-23,No,4
+1080,Anitha Raj,2025-05-05,ER,E11.9,Dr. Vikram,Star Health,25735.04,Stable,2025-05-17,No,12
+1006,Karthik Raja,2025-08-04,ER,E11.9,Dr. Shalini,HDFC Ergo,14285.02,Critical,2025-08-16,No,12
+1066,Sanjay Viswanathan,2025-11-29,Neurology,E11.9,Dr. Aditi,HDFC Ergo,21392.14,Stable,2025-12-13,No,14
+1096,Deepa Nair,2025-09-03,Oncology,C34.9,Dr. Rajesh,Star Health,27653.78,Critical,2025-09-07,No,4
+1049,Priya Sharma,2025-09-20,Neurology,G40.9,Dr. Rajesh,Out-of-Pocket,36067.77,Stable,2025-10-02,No,12
+1074,Arun Kumar,2025-04-23,ER,J45.9,Dr. Aditi,HDFC Ergo,6769.05,Recovering,2025-05-01,No,8
+1013,Arun Kumar,2025-10-26,ER,J45.9,Dr. Murugan,HDFC Ergo,40973.47,Stable,2025-10-28,No,2
+1025,Meera Krishnan,2025-02-05,Cardiology,E11.9,Dr. Vikram,Star Health,33255.52,Stable,,Yes,404
+1023,Deepa Nair,2025-03-24,Oncology,G40.9,Dr. Aditi,Out-of-Pocket,8679.16,Stable,2025-03-27,No,3
+1022,Meera Krishnan,2025-11-26,Neurology,G40.9,Dr. Vikram,LIC,44311.04,Stable,2025-12-05,No,9
+1015,Deepa Nair,2025-03-06,Cardiology,I21.9,Dr. Shalini,Star Health,46439.26,Stable,2025-03-10,No,4
+1010,Deepa Nair,2025-12-09,ER,I21.9,Dr. Aditi,LIC,7748.51,Critical,2025-12-19,No,10
+1027,Meera Krishnan,2025-06-17,Oncology,E11.9,Dr. Murugan,HDFC Ergo,17459.49,Stable,2025-06-22,No,5
+1015,Priya Sharma,2025-04-17,Oncology,J45.9,Dr. Murugan,LIC,41279.06,Stable,2025-04-19,No,2
+1016,Anitha Raj,2025-11-02,ER,I21.9,Dr. Vikram,HDFC Ergo,38671.69,Stable,2025-11-06,No,4
+1093,Karthik Raja,2025-10-23,Pediatrics,G40.9,Dr. Rajesh,LIC,13303.45,Recovering,2025-10-25,No,2
+1041,Arun Kumar,2025-12-11,ER,E11.9,Dr. Vikram,LIC,14420.72,Stable,2025-12-13,No,2
+1014,Rohan Gupta,2025-08-28,Neurology,I21.9,Dr. Vikram,HDFC Ergo,21671.24,Critical,,Yes,200
+1072,Rohan Gupta,2025-06-08,Cardiology,I21.9,Dr. Murugan,Star Health,26803.53,Critical,2025-06-14,No,6
+1039,Arun Kumar,2025-02-03,Neurology,J45.9,Dr. Shalini,LIC,32821.46,Stable,2025-02-10,No,7
+1054,Vijay Sethupathi,2025-02-28,Pediatrics,E11.9,Dr. Aditi,Star Health,21601.11,Stable,2025-03-10,No,10
+1055,Deepa Nair,2025-06-23,Pediatrics,E11.9,Dr. Vikram,Star Health,25814.06,Stable,2025-06-26,No,3
+1063,Sanjay Viswanathan,2025-10-28,Neurology,I21.9,Dr. Vikram,Star Health,38636.19,Stable,2025-10-31,No,3
+1063,Meera Krishnan,2025-08-27,Oncology,E11.9,Dr. Shalini,HDFC Ergo,6650.74,Critical,2025-09-06,No,10
+1047,Karthik Raja,2025-12-27,Neurology,E11.9,Dr. Vikram,Out-of-Pocket,16359.66,Stable,2026-01-02,No,6
+1054,Deepa Nair,2025-11-05,Pediatrics,C34.9,Dr. Shalini,Star Health,37100.73,Stable,2025-11-18,No,13
+1030,Sanjay Viswanathan,2025-07-19,Neurology,E11.9,Dr. Rajesh,HDFC Ergo,45284.31,Stable,2025-07-31,No,12
+1039,Anitha Raj,2025-10-15,Oncology,I21.9,Dr. Shalini,LIC,28025.48,Stable,2025-10-18,No,3
+1022,Sanjay Viswanathan,2025-12-30,Cardiology,J45.9,Dr. Shalini,Star Health,28945.11,Stable,2026-01-12,No,13
+1099,Sneha Kapoor,2025-10-18,Oncology,I21.9,Dr. Vikram,HDFC Ergo,9822.74,Critical,2025-10-20,No,2
+1060,Anitha Raj,2025-08-29,Neurology,E11.9,Dr. Rajesh,Out-of-Pocket,25133.56,Pending Assessment,2025-09-06,No,8
+1077,Deepa Nair,2025-08-13,Oncology,G40.9,Dr. Vikram,Out-of-Pocket,28967.78,Critical,2025-08-18,No,5
+1096,Karthik Raja,2025-05-12,Cardiology,J45.9,Dr. Shalini,Out-of-Pocket,15911.17,Stable,2025-05-13,No,1
+1078,Karthik Raja,2025-04-25,ER,C34.9,Dr. Rajesh,Out-of-Pocket,17115.95,Critical,2025-04-28,No,3
+1019,Karthik Raja,2025-04-08,Oncology,E11.9,Dr. Murugan,Star Health,21977.79,Stable,,Yes,342
+1078,Deepa Nair,2025-06-16,ER,E11.9,Dr. Aditi,HDFC Ergo,5903.2,Critical,2025-06-24,No,8
+1070,Rohan Gupta,2025-07-31,Pediatrics,E11.9,Dr. Rajesh,LIC,19493.56,Stable,2025-08-04,No,4
+1001,Karthik Raja,2025-12-07,Oncology,I21.9,Dr. Vikram,Out-of-Pocket,14515.16,Stable,2025-12-21,No,14
+1016,Karthik Raja,2025-01-15,Oncology,C34.9,Dr. Shalini,Out-of-Pocket,19737.38,Recovering,2025-01-22,No,7
+1020,Rohan Gupta,2025-03-31,Pediatrics,I21.9,Dr. Shalini,Out-of-Pocket,10389.3,Recovering,2025-04-10,No,10
+1051,Karthik Raja,2025-07-30,Pediatrics,E11.9,Dr. Shalini,Out-of-Pocket,45073.73,Stable,2025-08-11,No,12
+1044,Karthik Raja,2025-02-25,ER,G40.9,Dr. Vikram,LIC,31711.66,Critical,2025-03-11,No,14
+1079,Priya Sharma,2025-11-22,Oncology,C34.9,Dr. Murugan,Star Health,35559.6,Critical,2025-12-06,No,14
+1031,Karthik Raja,2025-04-25,Cardiology,E11.9,Dr. Rajesh,Star Health,40512.71,Recovering,2025-04-27,No,2
+1087,Vijay Sethupathi,2025-09-09,Pediatrics,C34.9,Dr. Aditi,Star Health,27429.9,Stable,2025-09-16,No,7
+1072,Sneha Kapoor,2025-10-31,Oncology,G40.9,Dr. Aditi,Star Health,8911.41,Critical,2025-11-05,No,5
+1039,Karthik Raja,2025-05-31,Pediatrics,J45.9,Dr. Rajesh,Star Health,29169.79,Stable,2025-06-05,No,5
+1022,Sneha Kapoor,2025-04-10,Oncology,E11.9,Dr. Aditi,LIC,31407.85,Stable,2025-04-16,No,6
+1050,Sanjay Viswanathan,2025-01-07,Neurology,J45.9,Dr. Murugan,Out-of-Pocket,38544.78,Recovering,2025-01-20,No,13
+1008,Vijay Sethupathi,2025-01-24,Cardiology,E11.9,Dr. Vikram,Star Health,24424.68,Stable,2025-02-02,No,9
+1097,Sneha Kapoor,2025-08-19,Cardiology,I21.9,Dr. Murugan,Out-of-Pocket,10741.11,Recovering,2025-09-02,No,14
+1039,Priya Sharma,2025-04-01,Neurology,J45.9,Dr. Rajesh,LIC,17769.92,Recovering,2025-04-07,No,6
+1020,Deepa Nair,2025-01-24,Cardiology,C34.9,Dr. Rajesh,Out-of-Pocket,21338.7,Stable,2025-02-05,No,12
+1047,Vijay Sethupathi,2025-04-08,Pediatrics,C34.9,Dr. Vikram,Out-of-Pocket,34066.28,Stable,2025-04-21,No,13
+1066,Sanjay Viswanathan,2025-10-16,Neurology,E11.9,Dr. Murugan,HDFC Ergo,30685.02,Stable,,Yes,151
+1036,Karthik Raja,2025-07-03,Neurology,G40.9,Dr. Aditi,Out-of-Pocket,21024.35,Stable,2025-07-11,No,8
+1035,Deepa Nair,2025-07-19,Pediatrics,G40.9,Dr. Aditi,Out-of-Pocket,49393.19,Stable,2025-07-26,No,7
+1077,Vijay Sethupathi,2025-11-09,ER,J45.9,Dr. Aditi,LIC,32259.87,Stable,2025-11-18,No,9
+1015,Vijay Sethupathi,2025-01-21,Neurology,C34.9,Dr. Aditi,HDFC Ergo,15675.21,Critical,2025-01-25,No,4
+1049,Sneha Kapoor,2025-02-21,Neurology,E11.9,Dr. Shalini,HDFC Ergo,9580.21,Critical,2025-02-23,No,2
+1009,Meera Krishnan,2025-07-03,Cardiology,J45.9,Dr. Aditi,Out-of-Pocket,11878.66,Stable,2025-07-10,No,7
+1021,Karthik Raja,2025-02-05,ER,G40.9,Dr. Vikram,HDFC Ergo,16068.1,Stable,2025-02-11,No,6
+1049,Priya Sharma,2025-07-23,Cardiology,I21.9,Dr. Shalini,Out-of-Pocket,12230.66,Stable,2025-07-24,No,1
+1030,Sneha Kapoor,2025-04-23,Neurology,I21.9,Dr. Murugan,Out-of-Pocket,13395.52,Recovering,2025-05-04,No,11
+1053,Deepa Nair,2025-03-01,Oncology,C34.9,Dr. Vikram,HDFC Ergo,17829.28,Critical,2025-03-10,No,9
+1079,Vijay Sethupathi,2025-07-11,Cardiology,C34.9,Dr. Rajesh,LIC,12801.81,Stable,,Yes,248
+1003,Rohan Gupta,2025-08-15,ER,C34.9,Dr. Shalini,Out-of-Pocket,45354.44,Critical,2025-08-27,No,12
+1027,Sanjay Viswanathan,2025-05-18,ER,G40.9,Dr. Rajesh,Star Health,8610.52,Recovering,2025-05-20,No,2
+1033,Meera Krishnan,2025-01-23,Cardiology,I21.9,Dr. Vikram,HDFC Ergo,28603.01,Stable,2025-01-26,No,3
+1053,Arun Kumar,2025-03-03,Cardiology,E11.9,Dr. Murugan,Out-of-Pocket,23467.86,Pending Assessment,2025-03-08,No,5
+1069,Arun Kumar,2025-02-22,Oncology,J45.9,Dr. Rajesh,HDFC Ergo,49207.04,Stable,2025-02-27,No,5
+1076,Anitha Raj,2025-08-21,ER,G40.9,Dr. Murugan,Star Health,10041.75,Pending Assessment,2025-08-22,No,1
+1001,Arun Kumar,2025-01-28,Oncology,C34.9,Dr. Aditi,LIC,22903.5,Critical,2025-02-05,No,8
+1019,Arun Kumar,2025-01-14,Pediatrics,J45.9,Dr. Rajesh,LIC,48626.17,Critical,2025-01-26,No,12
+1022,Priya Sharma,2025-08-08,Pediatrics,C34.9,Dr. Murugan,Star Health,43947.82,Recovering,2025-08-16,No,8
+1045,Meera Krishnan,2025-02-25,ER,G40.9,Dr. Aditi,HDFC Ergo,41768.24,Stable,2025-03-01,No,4
+1039,Rohan Gupta,2025-08-11,Pediatrics,C34.9,Dr. Vikram,HDFC Ergo,16605.63,Recovering,2025-08-24,No,13
+1099,Anitha Raj,2025-05-14,Cardiology,C34.9,Dr. Murugan,HDFC Ergo,12689.94,Recovering,,Yes,306
+1065,Karthik Raja,2025-05-26,Pediatrics,J45.9,Dr. Shalini,Star Health,35088.94,Stable,2025-06-06,No,11
+1000,Deepa Nair,2025-12-17,Neurology,G40.9,Dr. Vikram,HDFC Ergo,46821.92,Critical,2025-12-27,No,10
+1027,Sneha Kapoor,2025-11-22,Neurology,J45.9,Dr. Murugan,LIC,30054.33,Stable,2025-11-25,No,3
+1018,Deepa Nair,2025-07-07,Pediatrics,I21.9,Dr. Vikram,LIC,30722.57,Critical,2025-07-13,No,6
+1043,Priya Sharma,2025-10-12,Oncology,C34.9,Dr. Shalini,LIC,17599.06,Stable,2025-10-26,No,14
+1066,Vijay Sethupathi,2025-10-12,Cardiology,C34.9,Dr. Vikram,LIC,39627.18,Critical,2025-10-22,No,10
+1016,Priya Sharma,2025-01-22,Pediatrics,G40.9,Dr. Shalini,LIC,13416.97,Stable,2025-02-04,No,13
+1042,Karthik Raja,2025-05-14,Neurology,J45.9,Dr. Shalini,Out-of-Pocket,19565.57,Stable,2025-05-24,No,10
+1018,Rohan Gupta,2025-06-17,Pediatrics,J45.9,Dr. Shalini,Out-of-Pocket,24144.64,Stable,2025-06-29,No,12
+1041,Priya Sharma,2025-11-10,Neurology,G40.9,Dr. Vikram,HDFC Ergo,27842.47,Stable,2025-11-24,No,14
+1055,Vijay Sethupathi,2025-03-07,Neurology,I21.9,Dr. Rajesh,Out-of-Pocket,15908.44,Pending Assessment,2025-03-16,No,9
+1014,Sanjay Viswanathan,2025-09-17,Pediatrics,E11.9,Dr. Rajesh,Out-of-Pocket,10167.66,Stable,2025-09-18,No,1
+1078,Sanjay Viswanathan,2025-09-02,Oncology,I21.9,Dr. Shalini,Out-of-Pocket,32477.9,Critical,2025-09-07,No,5
+1012,Rohan Gupta,2025-09-21,Neurology,G40.9,Dr. Rajesh,LIC,17988.37,Stable,2025-09-25,No,4
+1068,Deepa Nair,2025-11-08,Oncology,G40.9,Dr. Shalini,LIC,31155.72,Recovering,2025-11-16,No,8
+1038,Anitha Raj,2025-04-02,ER,C34.9,Dr. Murugan,HDFC Ergo,11946.32,Stable,2025-04-13,No,11
+1061,Sneha Kapoor,2025-01-13,Oncology,J45.9,Dr. Murugan,LIC,26651.3,Critical,2025-01-25,No,12
+1009,Karthik Raja,2025-01-26,Oncology,I21.9,Dr. Aditi,Out-of-Pocket,28966.52,Recovering,,Yes,414
+1001,Anitha Raj,2025-11-18,ER,G40.9,Dr. Shalini,HDFC Ergo,7332.06,Critical,2025-11-27,No,9
+1080,Vijay Sethupathi,2025-04-26,Oncology,C34.9,Dr. Vikram,Star Health,20147.19,Stable,2025-05-02,No,6
+1093,Meera Krishnan,2025-05-22,Cardiology,J45.9,Dr. Shalini,LIC,11048.66,Recovering,,Yes,298
+1008,Deepa Nair,2025-11-24,Pediatrics,I21.9,Dr. Shalini,Out-of-Pocket,7851.87,Stable,2025-12-06,No,12
+1077,Sneha Kapoor,2025-10-06,Neurology,G40.9,Dr. Murugan,Out-of-Pocket,49548.21,Stable,2025-10-15,No,9
+1081,Sneha Kapoor,2025-07-30,Neurology,I21.9,Dr. Murugan,Star Health,19505.92,Critical,2025-08-10,No,11
+1063,Arun Kumar,2025-08-28,Oncology,J45.9,Dr. Aditi,HDFC Ergo,41444.35,Recovering,2025-09-02,No,5
+1000,Meera Krishnan,2025-05-05,Neurology,I21.9,Dr. Vikram,LIC,16458.83,Stable,2025-05-10,No,5
+1036,Karthik Raja,2025-05-04,Oncology,G40.9,Dr. Aditi,HDFC Ergo,35667.62,Critical,2025-05-16,No,12
+1032,Sanjay Viswanathan,2025-07-12,Pediatrics,J45.9,Dr. Murugan,Star Health,39210.25,Recovering,2025-07-17,No,5
+1098,Karthik Raja,2025-03-30,Neurology,C34.9,Dr. Shalini,Star Health,31803.74,Stable,2025-03-31,No,1
+1033,Arun Kumar,2025-06-20,Cardiology,I21.9,Dr. Vikram,LIC,26220.93,Critical,,Yes,269
+1036,Karthik Raja,2025-03-14,Neurology,E11.9,Dr. Vikram,Out-of-Pocket,23532.84,Recovering,2025-03-22,No,8
+1079,Sneha Kapoor,2025-10-06,Neurology,E11.9,Dr. Vikram,LIC,20699.07,Critical,2025-10-18,No,12
+1070,Priya Sharma,2025-05-06,Pediatrics,C34.9,Dr. Shalini,Star Health,46828.81,Critical,2025-05-14,No,8
+1063,Sneha Kapoor,2025-10-14,Neurology,E11.9,Dr. Aditi,LIC,42377.87,Pending Assessment,2025-10-26,No,12
+1003,Anitha Raj,2025-02-22,Neurology,G40.9,Dr. Shalini,HDFC Ergo,48426.21,Pending Assessment,2025-02-28,No,6
+1016,Arun Kumar,2025-09-05,Neurology,G40.9,Dr. Aditi,LIC,10593.38,Critical,2025-09-17,No,12
+1008,Karthik Raja,2025-01-15,Pediatrics,G40.9,Dr. Aditi,Star Health,37889.04,Stable,2025-01-26,No,11
+1001,Sneha Kapoor,2025-09-24,Oncology,C34.9,Dr. Aditi,Star Health,47225.32,Recovering,2025-10-07,No,13
+1097,Sneha Kapoor,2025-02-19,Cardiology,G40.9,Dr. Vikram,Out-of-Pocket,13155.49,Stable,2025-02-23,No,4
+1001,Anitha Raj,2025-02-23,Pediatrics,C34.9,Dr. Vikram,LIC,7992.33,Recovering,2025-02-25,No,2
+1000,Vijay Sethupathi,2025-07-30,Cardiology,I21.9,Dr. Shalini,Out-of-Pocket,38350.43,Recovering,2025-08-13,No,14
+1034,Vijay Sethupathi,2025-08-14,Oncology,E11.9,Dr. Aditi,LIC,30851.29,Recovering,2025-08-16,No,2
+1044,Priya Sharma,2025-03-04,ER,J45.9,Dr. Rajesh,Out-of-Pocket,42882.29,Critical,2025-03-13,No,9
+1027,Rohan Gupta,2025-08-10,Oncology,I21.9,Dr. Aditi,Out-of-Pocket,11289.76,Critical,2025-08-15,No,5
+1071,Priya Sharma,2025-04-18,Pediatrics,E11.9,Dr. Murugan,Out-of-Pocket,40787.03,Pending Assessment,2025-04-22,No,4
+1030,Sneha Kapoor,2025-04-27,Oncology,C34.9,Dr. Vikram,HDFC Ergo,14073.23,Critical,2025-05-07,No,10
+1047,Deepa Nair,2025-02-25,Oncology,I21.9,Dr. Shalini,LIC,12364.52,Critical,2025-03-10,No,13
+1053,Anitha Raj,2025-12-26,Pediatrics,G40.9,Dr. Murugan,Star Health,12391.96,Critical,2025-12-27,No,1
+1031,Karthik Raja,2025-10-08,Pediatrics,E11.9,Dr. Aditi,Out-of-Pocket,41655.86,Critical,2025-10-15,No,7
+1055,Priya Sharma,2025-03-10,ER,I21.9,Dr. Vikram,Out-of-Pocket,34933.87,Stable,2025-03-13,No,3
+1049,Priya Sharma,2025-02-24,Neurology,J45.9,Dr. Murugan,LIC,28537.94,Stable,2025-03-02,No,6
+1100,Karthik Raja,2025-11-18,ER,I21.9,Dr. Shalini,HDFC Ergo,21147.37,Stable,2025-11-23,No,5
+1017,Sneha Kapoor,2025-08-01,Neurology,E11.9,Dr. Rajesh,Out-of-Pocket,44474.02,Recovering,2025-08-06,No,5
+1051,Deepa Nair,2026-01-01,Neurology,E11.9,Dr. Shalini,HDFC Ergo,22660.03,Stable,2026-01-12,No,11
+1078,Meera Krishnan,2025-11-27,Cardiology,G40.9,Dr. Shalini,Out-of-Pocket,41746.97,Recovering,2025-12-02,No,5
+1040,Priya Sharma,2025-12-30,Neurology,I21.9,Dr. Aditi,HDFC Ergo,24761.07,Stable,2025-12-31,No,1
+1093,Priya Sharma,2025-09-22,Pediatrics,I21.9,Dr. Vikram,HDFC Ergo,21962.5,Stable,2025-09-23,No,1
+1019,Karthik Raja,2025-12-14,Oncology,E11.9,Dr. Rajesh,Out-of-Pocket,25820.59,Stable,2025-12-17,No,3
+1082,Rohan Gupta,2025-05-29,ER,J45.9,Dr. Vikram,Star Health,18562.0,Stable,2025-06-12,No,14
+1090,Sneha Kapoor,2025-02-25,Oncology,G40.9,Dr. Murugan,LIC,38642.42,Critical,2025-03-09,No,12
+1083,Anitha Raj,2025-11-19,ER,G40.9,Dr. Rajesh,Out-of-Pocket,27622.42,Stable,2025-11-29,No,10
+1031,Vijay Sethupathi,2025-07-04,ER,G40.9,Dr. Vikram,Out-of-Pocket,15449.57,Pending Assessment,2025-07-08,No,4
+1074,Priya Sharma,2025-05-29,Neurology,G40.9,Dr. Vikram,Star Health,45480.86,Stable,2025-06-03,No,5
+1033,Deepa Nair,2025-08-24,Pediatrics,E11.9,Dr. Vikram,Out-of-Pocket,22275.1,Stable,,Yes,204
+1018,Anitha Raj,2025-02-26,Pediatrics,G40.9,Dr. Aditi,HDFC Ergo,29459.88,Stable,2025-03-06,No,8
+1081,Arun Kumar,2025-05-14,Cardiology,J45.9,Dr. Murugan,Out-of-Pocket,45791.24,Stable,2025-05-25,No,11
+1066,Arun Kumar,2025-06-05,Pediatrics,E11.9,Dr. Shalini,LIC,33090.71,Critical,,Yes,284
+1078,Sneha Kapoor,2025-02-23,ER,C34.9,Dr. Vikram,Out-of-Pocket,10260.41,Stable,,Yes,386
+1026,Sanjay Viswanathan,2025-10-22,Neurology,J45.9,Dr. Vikram,HDFC Ergo,47292.45,Recovering,2025-10-24,No,2
+1059,Deepa Nair,2025-06-24,Pediatrics,E11.9,Dr. Shalini,HDFC Ergo,33246.86,Critical,2025-07-03,No,9
+1048,Vijay Sethupathi,2025-06-10,Pediatrics,G40.9,Dr. Rajesh,Out-of-Pocket,20070.75,Stable,2025-06-12,No,2
+1024,Priya Sharma,2025-07-17,Neurology,E11.9,Dr. Rajesh,LIC,11267.24,Stable,2025-07-30,No,13
+1057,Meera Krishnan,2025-11-03,ER,J45.9,Dr. Aditi,LIC,40731.13,Critical,2025-11-12,No,9
+1022,Karthik Raja,2025-11-20,ER,J45.9,Dr. Murugan,Out-of-Pocket,32903.27,Critical,2025-11-27,No,7
+1036,Karthik Raja,2026-01-01,Cardiology,E11.9,Dr. Rajesh,LIC,29005.75,Recovering,,Yes,74
+1065,Sanjay Viswanathan,2025-11-10,Neurology,E11.9,Dr. Vikram,Out-of-Pocket,45225.17,Stable,2025-11-21,No,11
+1072,Arun Kumar,2025-07-31,ER,G40.9,Dr. Vikram,LIC,40486.87,Stable,2025-08-02,No,2
+1026,Anitha Raj,2025-01-04,Pediatrics,I21.9,Dr. Vikram,LIC,11825.37,Stable,2025-01-11,No,7
+1092,Priya Sharma,2025-10-30,Oncology,G40.9,Dr. Rajesh,LIC,19027.49,Recovering,2025-11-11,No,12
+1071,Vijay Sethupathi,2025-10-28,Pediatrics,C34.9,Dr. Rajesh,HDFC Ergo,16182.01,Critical,2025-11-03,No,6
+1092,Karthik Raja,2025-07-23,Oncology,G40.9,Dr. Shalini,LIC,38477.58,Critical,2025-07-27,No,4
+1045,Anitha Raj,2025-08-11,Cardiology,G40.9,Dr. Rajesh,HDFC Ergo,6508.96,Critical,2025-08-18,No,7
+1087,Priya Sharma,2025-01-08,ER,J45.9,Dr. Aditi,Star Health,30645.04,Recovering,2025-01-22,No,14
+1093,Deepa Nair,2025-07-16,Cardiology,G40.9,Dr. Shalini,HDFC Ergo,39310.64,Recovering,2025-07-29,No,13
+1031,Sanjay Viswanathan,2025-06-28,ER,G40.9,Dr. Murugan,HDFC Ergo,44454.45,Stable,2025-07-02,No,4
+1083,Priya Sharma,2025-11-11,Cardiology,C34.9,Dr. Aditi,Out-of-Pocket,20393.68,Stable,2025-11-13,No,2
+1008,Meera Krishnan,2025-09-22,Oncology,C34.9,Dr. Shalini,Star Health,41956.58,Stable,2025-10-02,No,10
+1073,Rohan Gupta,2025-11-16,Cardiology,I21.9,Dr. Murugan,Star Health,9978.43,Stable,2025-11-28,No,12
+1021,Meera Krishnan,2025-02-21,ER,I21.9,Dr. Aditi,LIC,43090.35,Recovering,2025-02-28,No,7
+1028,Vijay Sethupathi,2025-12-14,Cardiology,E11.9,Dr. Vikram,LIC,10736.99,Critical,2025-12-22,No,8
+1091,Priya Sharma,2025-08-24,Cardiology,J45.9,Dr. Rajesh,LIC,22877.93,Stable,2025-08-26,No,2
+1039,Deepa Nair,2025-10-24,Cardiology,J45.9,Dr. Murugan,LIC,40878.29,Stable,2025-10-29,No,5
+1013,Sanjay Viswanathan,2025-02-10,Oncology,E11.9,Dr. Rajesh,Out-of-Pocket,11746.28,Critical,2025-02-11,No,1
+1072,Sanjay Viswanathan,2025-01-11,Oncology,I21.9,Dr. Murugan,Star Health,15316.31,Recovering,2025-01-18,No,7
+1084,Meera Krishnan,2025-06-02,ER,I21.9,Dr. Murugan,LIC,37501.37,Stable,2025-06-10,No,8
+1050,Karthik Raja,2025-10-27,ER,G40.9,Dr. Vikram,Out-of-Pocket,37401.64,Recovering,2025-11-09,No,13
+1054,Priya Sharma,2025-09-08,ER,G40.9,Dr. Rajesh,HDFC Ergo,33851.64,Recovering,2025-09-14,No,6
+1086,Deepa Nair,2025-04-14,Pediatrics,I21.9,Dr. Rajesh,HDFC Ergo,36227.68,Recovering,2025-04-19,No,5
+1031,Vijay Sethupathi,2025-12-04,Cardiology,I21.9,Dr. Aditi,Star Health,29422.6,Stable,2025-12-10,No,6
+1033,Rohan Gupta,2025-09-15,ER,I21.9,Dr. Vikram,LIC,16330.96,Recovering,2025-09-17,No,2
+1055,Meera Krishnan,2025-07-29,ER,E11.9,Dr. Shalini,LIC,20556.32,Stable,2025-07-30,No,1
+1019,Priya Sharma,2025-11-01,Oncology,G40.9,Dr. Murugan,LIC,13171.9,Critical,2025-11-08,No,7
+1001,Deepa Nair,2025-08-28,Cardiology,G40.9,Dr. Rajesh,Out-of-Pocket,45880.28,Stable,2025-09-04,No,7
+1021,Karthik Raja,2025-11-20,Cardiology,J45.9,Dr. Murugan,Star Health,31252.63,Recovering,2025-11-30,No,10
+1098,Sneha Kapoor,2025-06-20,ER,E11.9,Dr. Murugan,HDFC Ergo,23038.31,Recovering,2025-07-01,No,11
+1025,Deepa Nair,2025-12-05,Cardiology,E11.9,Dr. Shalini,Out-of-Pocket,25790.26,Stable,2025-12-15,No,10
+1016,Rohan Gupta,2025-05-05,Pediatrics,I21.9,Dr. Aditi,HDFC Ergo,47627.75,Stable,2025-05-19,No,14
+1088,Rohan Gupta,2025-12-18,Pediatrics,G40.9,Dr. Aditi,Out-of-Pocket,11900.81,Critical,2025-12-20,No,2
+1043,Vijay Sethupathi,2025-07-23,Oncology,G40.9,Dr. Aditi,LIC,31380.34,Stable,,Yes,236
+1084,Sneha Kapoor,2025-10-06,Oncology,C34.9,Dr. Aditi,HDFC Ergo,27764.99,Stable,2025-10-07,No,1
+1044,Karthik Raja,2025-08-09,Pediatrics,I21.9,Dr. Shalini,HDFC Ergo,32515.44,Stable,2025-08-19,No,10
+1014,Priya Sharma,2025-10-03,Neurology,G40.9,Dr. Murugan,HDFC Ergo,5814.96,Stable,2025-10-11,No,8
+1051,Priya Sharma,2025-05-23,Pediatrics,E11.9,Dr. Murugan,Star Health,44245.58,Stable,2025-05-31,No,8
+1077,Sneha Kapoor,2025-04-18,Oncology,I21.9,Dr. Vikram,HDFC Ergo,46945.32,Recovering,2025-04-19,No,1
+1083,Deepa Nair,2025-06-27,Cardiology,J45.9,Dr. Aditi,LIC,30430.99,Stable,2025-07-09,No,12
+1061,Deepa Nair,2025-01-09,Cardiology,E11.9,Dr. Rajesh,LIC,36349.29,Critical,2025-01-20,No,11
+1074,Deepa Nair,2025-09-02,Oncology,I21.9,Dr. Murugan,HDFC Ergo,46512.47,Critical,2025-09-10,No,8
+1010,Anitha Raj,2025-05-28,Oncology,G40.9,Dr. Aditi,LIC,36825.74,Recovering,2025-06-06,No,9
+1051,Sanjay Viswanathan,2025-06-26,Oncology,C34.9,Dr. Shalini,Star Health,11864.26,Critical,2025-07-10,No,14
+1020,Karthik Raja,2025-03-01,Cardiology,G40.9,Dr. Shalini,Out-of-Pocket,30932.98,Stable,2025-03-05,No,4
+1044,Sanjay Viswanathan,2025-12-20,ER,I21.9,Dr. Vikram,Star Health,32302.18,Stable,2025-12-21,No,1
+1022,Sanjay Viswanathan,2025-08-09,Pediatrics,J45.9,Dr. Murugan,Star Health,24085.88,Critical,2025-08-10,No,1
+1044,Arun Kumar,2025-09-18,Oncology,E11.9,Dr. Murugan,Out-of-Pocket,38139.99,Stable,2025-09-21,No,3
+1075,Meera Krishnan,2025-07-15,Neurology,E11.9,Dr. Murugan,Out-of-Pocket,47046.52,Stable,2025-07-29,No,14
+1081,Arun Kumar,2025-09-26,Cardiology,I21.9,Dr. Murugan,HDFC Ergo,46650.58,Stable,2025-10-01,No,5
+1017,Priya Sharma,2025-12-03,Neurology,E11.9,Dr. Vikram,HDFC Ergo,25287.77,Critical,2025-12-08,No,5
+1097,Anitha Raj,2025-06-18,Cardiology,I21.9,Dr. Murugan,Star Health,10095.71,Stable,2025-06-27,No,9
+1041,Arun Kumar,2025-01-30,Oncology,G40.9,Dr. Aditi,Star Health,49317.85,Critical,2025-02-09,No,10
+1094,Arun Kumar,2025-08-19,Pediatrics,C34.9,Dr. Shalini,HDFC Ergo,42750.41,Critical,2025-09-02,No,14
+1063,Sneha Kapoor,2025-09-27,Neurology,C34.9,Dr. Aditi,LIC,10609.82,Recovering,2025-10-09,No,12
+1055,Karthik Raja,2025-11-21,Oncology,J45.9,Dr. Vikram,Star Health,46437.88,Stable,,Yes,115
+1084,Deepa Nair,2025-11-27,Pediatrics,E11.9,Dr. Rajesh,Out-of-Pocket,44145.34,Stable,2025-11-29,No,2
+1021,Arun Kumar,2025-10-13,ER,I21.9,Dr. Rajesh,Out-of-Pocket,28347.71,Critical,2025-10-19,No,6
+1005,Rohan Gupta,2025-10-04,ER,C34.9,Dr. Aditi,Out-of-Pocket,31607.39,Recovering,2025-10-13,No,9
+1085,Karthik Raja,2025-05-19,Oncology,G40.9,Dr. Rajesh,HDFC Ergo,22955.12,Stable,2025-05-20,No,1
+1047,Anitha Raj,2025-03-31,Pediatrics,C34.9,Dr. Vikram,LIC,7464.27,Critical,2025-04-09,No,9
+1042,Sneha Kapoor,2025-01-10,ER,C34.9,Dr. Shalini,LIC,20083.88,Stable,2025-01-19,No,9
+1040,Arun Kumar,2025-08-07,Cardiology,G40.9,Dr. Shalini,Out-of-Pocket,41128.41,Stable,2025-08-20,No,13
+1023,Arun Kumar,2025-08-18,Oncology,J45.9,Dr. Murugan,LIC,5208.44,Stable,2025-08-27,No,9
+1005,Deepa Nair,2025-12-08,Cardiology,E11.9,Dr. Shalini,LIC,20007.46,Stable,,Yes,98
+1071,Arun Kumar,2025-09-22,Cardiology,G40.9,Dr. Aditi,Out-of-Pocket,22917.59,Recovering,2025-10-05,No,13
+1009,Karthik Raja,2025-02-14,Oncology,I21.9,Dr. Aditi,Out-of-Pocket,29182.8,Stable,,Yes,395
+1094,Sneha Kapoor,2025-10-03,Neurology,G40.9,Dr. Vikram,LIC,46393.5,Stable,2025-10-14,No,11
+1064,Vijay Sethupathi,2025-12-09,ER,J45.9,Dr. Aditi,Star Health,20585.57,Critical,2025-12-13,No,4
+1044,Sneha Kapoor,2025-06-11,Pediatrics,I21.9,Dr. Rajesh,LIC,20612.89,Pending Assessment,2025-06-13,No,2
+1045,Anitha Raj,2025-08-16,Neurology,I21.9,Dr. Murugan,Out-of-Pocket,38187.56,Critical,2025-08-29,No,13
+1070,Priya Sharma,2025-11-17,Oncology,J45.9,Dr. Aditi,LIC,25349.81,Recovering,2025-11-23,No,6
+1047,Sneha Kapoor,2025-03-27,Oncology,I21.9,Dr. Murugan,HDFC Ergo,15107.22,Stable,2025-04-10,No,14
+1097,Sanjay Viswanathan,2025-04-22,Cardiology,E11.9,Dr. Shalini,LIC,25359.78,Stable,2025-04-26,No,4
+1085,Karthik Raja,2025-01-26,Oncology,E11.9,Dr. Vikram,LIC,11338.57,Critical,2025-02-01,No,6
+1009,Rohan Gupta,2025-12-15,ER,G40.9,Dr. Shalini,Star Health,12937.41,Pending Assessment,2025-12-18,No,3
+1078,Karthik Raja,2025-11-13,Oncology,E11.9,Dr. Shalini,LIC,27426.55,Stable,2025-11-19,No,6
+1060,Sanjay Viswanathan,2025-06-18,Pediatrics,G40.9,Dr. Rajesh,LIC,23851.65,Critical,2025-06-20,No,2
+1099,Karthik Raja,2025-10-01,Cardiology,E11.9,Dr. Vikram,HDFC Ergo,46168.07,Recovering,2025-10-03,No,2
+1034,Priya Sharma,2025-03-17,Cardiology,C34.9,Dr. Rajesh,HDFC Ergo,21307.73,Critical,2025-03-30,No,13
+1053,Meera Krishnan,2025-12-18,ER,I21.9,Dr. Rajesh,Out-of-Pocket,31126.48,Critical,2025-12-27,No,9
+1081,Arun Kumar,2025-12-19,Oncology,E11.9,Dr. Aditi,HDFC Ergo,33451.89,Stable,2025-12-26,No,7
+1030,Priya Sharma,2025-05-28,Pediatrics,G40.9,Dr. Murugan,Star Health,5589.25,Stable,2025-05-31,No,3
+1056,Rohan Gupta,2025-06-06,Oncology,G40.9,Dr. Aditi,Out-of-Pocket,34859.18,Stable,2025-06-19,No,13
+1027,Priya Sharma,2025-10-24,Neurology,J45.9,Dr. Shalini,Star Health,13011.62,Critical,2025-11-04,No,11
+1031,Vijay Sethupathi,2025-08-28,Oncology,J45.9,Dr. Rajesh,LIC,48248.16,Stable,2025-08-29,No,1
+1089,Vijay Sethupathi,2025-10-15,Oncology,J45.9,Dr. Murugan,Out-of-Pocket,11689.82,Stable,2025-10-23,No,8
+1005,Priya Sharma,2025-09-14,Pediatrics,G40.9,Dr. Murugan,LIC,23658.09,Stable,,Yes,183
+1037,Karthik Raja,2025-09-03,Neurology,C34.9,Dr. Aditi,Star Health,8840.74,Stable,2025-09-09,No,6
+1057,Karthik Raja,2025-10-21,Neurology,I21.9,Dr. Shalini,Out-of-Pocket,49859.34,Stable,2025-10-28,No,7
+1058,Arun Kumar,2025-03-23,Pediatrics,E11.9,Dr. Murugan,Star Health,27598.78,Stable,2025-04-01,No,9
+1010,Karthik Raja,2025-11-29,Neurology,E11.9,Dr. Murugan,LIC,31792.33,Critical,2025-12-04,No,5
+1041,Vijay Sethupathi,2025-12-06,Oncology,E11.9,Dr. Vikram,Star Health,8018.44,Stable,2025-12-07,No,1
+1058,Vijay Sethupathi,2025-12-12,Cardiology,I21.9,Dr. Murugan,HDFC Ergo,38748.22,Critical,2025-12-24,No,12
+1009,Vijay Sethupathi,2025-01-17,Neurology,E11.9,Dr. Aditi,Star Health,14445.75,Stable,2025-01-27,No,10
+1061,Sanjay Viswanathan,2025-09-13,Neurology,G40.9,Dr. Aditi,Out-of-Pocket,45412.44,Recovering,2025-09-20,No,7
+1014,Priya Sharma,2025-07-24,Oncology,G40.9,Dr. Murugan,Star Health,14231.28,Recovering,2025-07-29,No,5
+1097,Deepa Nair,2025-05-17,Oncology,G40.9,Dr. Vikram,HDFC Ergo,13580.95,Stable,2025-05-20,No,3
+1012,Priya Sharma,2025-09-04,Cardiology,J45.9,Dr. Vikram,Out-of-Pocket,6644.74,Recovering,2025-09-16,No,12
+1068,Rohan Gupta,2025-03-07,ER,C34.9,Dr. Murugan,HDFC Ergo,26243.01,Critical,2025-03-20,No,13
+1097,Sanjay Viswanathan,2025-09-19,ER,I21.9,Dr. Rajesh,Out-of-Pocket,30417.85,Stable,2025-09-28,No,9
+1030,Anitha Raj,2025-05-10,Pediatrics,J45.9,Dr. Rajesh,Out-of-Pocket,7956.89,Stable,2025-05-11,No,1
+1067,Priya Sharma,2025-04-22,Neurology,E11.9,Dr. Vikram,Star Health,39898.74,Stable,2025-04-23,No,1
+1066,Meera Krishnan,2025-10-13,Oncology,E11.9,Dr. Murugan,Out-of-Pocket,25398.0,Stable,2025-10-14,No,1
+1082,Arun Kumar,2025-12-02,Oncology,G40.9,Dr. Vikram,Star Health,28597.56,Stable,2025-12-05,No,3
+1056,Karthik Raja,2025-08-15,Pediatrics,G40.9,Dr. Rajesh,HDFC Ergo,24834.32,Stable,2025-08-27,No,12
+1078,Arun Kumar,2025-02-12,Oncology,I21.9,Dr. Aditi,LIC,23034.34,Critical,2025-02-18,No,6
+1002,Sanjay Viswanathan,2025-09-27,Pediatrics,J45.9,Dr. Vikram,LIC,30183.81,Stable,2025-10-07,No,10
+1098,Meera Krishnan,2025-04-19,Pediatrics,C34.9,Dr. Shalini,Out-of-Pocket,11985.81,Recovering,,Yes,331
+1091,Priya Sharma,2025-12-25,Oncology,I21.9,Dr. Murugan,LIC,13186.77,Stable,2025-12-28,No,3
+1018,Karthik Raja,2025-12-26,Neurology,E11.9,Dr. Vikram,LIC,43780.35,Stable,2026-01-03,No,8
+1003,Anitha Raj,2025-06-02,Neurology,G40.9,Dr. Shalini,Out-of-Pocket,47575.2,Critical,2025-06-16,No,14
+1057,Sanjay Viswanathan,2025-12-15,Oncology,C34.9,Dr. Shalini,Out-of-Pocket,21798.92,Stable,2025-12-29,No,14
+1052,Karthik Raja,2025-03-10,Cardiology,G40.9,Dr. Vikram,LIC,17183.51,Critical,2025-03-20,No,10
+1001,Karthik Raja,2025-03-15,Oncology,G40.9,Dr. Vikram,Star Health,33979.98,Stable,2025-03-17,No,2
+1020,Vijay Sethupathi,2025-04-02,ER,I21.9,Dr. Shalini,LIC,23393.04,Critical,2025-04-16,No,14
+1034,Karthik Raja,2025-11-15,Oncology,E11.9,Dr. Vikram,HDFC Ergo,6142.39,Recovering,2025-11-24,No,9
+1017,Rohan Gupta,2025-08-16,Cardiology,J45.9,Dr. Rajesh,Out-of-Pocket,12026.87,Recovering,2025-08-19,No,3
+1029,Arun Kumar,2025-11-27,ER,J45.9,Dr. Murugan,Star Health,37218.75,Recovering,2025-12-02,No,5
+1084,Vijay Sethupathi,2025-10-16,Oncology,C34.9,Dr. Aditi,LIC,34651.58,Critical,,Yes,151
+1093,Sanjay Viswanathan,2025-03-09,Pediatrics,C34.9,Dr. Aditi,Star Health,6219.32,Pending Assessment,,Yes,372
+1059,Meera Krishnan,2025-07-08,Cardiology,E11.9,Dr. Murugan,HDFC Ergo,14988.75,Stable,2025-07-10,No,2
+1088,Meera Krishnan,2025-04-24,ER,G40.9,Dr. Aditi,HDFC Ergo,15398.37,Critical,2025-04-30,No,6
+1061,Vijay Sethupathi,2025-11-16,Cardiology,G40.9,Dr. Shalini,Star Health,35235.17,Recovering,2025-11-28,No,12
+1098,Priya Sharma,2025-09-26,Neurology,C34.9,Dr. Rajesh,HDFC Ergo,5886.97,Stable,2025-10-01,No,5
+1082,Meera Krishnan,2025-02-14,Pediatrics,C34.9,Dr. Murugan,Star Health,9684.89,Stable,2025-02-27,No,13
+1042,Priya Sharma,2025-02-23,Cardiology,G40.9,Dr. Shalini,HDFC Ergo,40996.22,Critical,,Yes,386
+1040,Deepa Nair,2025-11-15,ER,G40.9,Dr. Murugan,LIC,13034.51,Recovering,2025-11-24,No,9
+1047,Sanjay Viswanathan,2025-03-26,ER,G40.9,Dr. Aditi,HDFC Ergo,34373.57,Stable,2025-04-07,No,12
+1040,Priya Sharma,2025-12-02,Pediatrics,C34.9,Dr. Murugan,LIC,15718.23,Recovering,2025-12-07,No,5
+1020,Karthik Raja,2025-01-28,Cardiology,E11.9,Dr. Aditi,Out-of-Pocket,9474.86,Stable,2025-01-30,No,2
+1063,Vijay Sethupathi,2025-04-11,ER,G40.9,Dr. Murugan,HDFC Ergo,15942.75,Stable,2025-04-16,No,5
+1055,Karthik Raja,2025-11-04,Oncology,J45.9,Dr. Vikram,HDFC Ergo,37502.01,Stable,2025-11-16,No,12
+1003,Priya Sharma,2025-07-14,ER,J45.9,Dr. Murugan,LIC,43506.34,Stable,2025-07-18,No,4
+1025,Anitha Raj,2025-06-30,Pediatrics,J45.9,Dr. Shalini,HDFC Ergo,42359.89,Recovering,2025-07-11,No,11
+1062,Rohan Gupta,2025-02-01,Cardiology,I21.9,Dr. Shalini,Star Health,22873.26,Stable,2025-02-08,No,7
+1059,Deepa Nair,2025-06-22,ER,J45.9,Dr. Vikram,LIC,35063.83,Critical,2025-06-28,No,6
+1061,Arun Kumar,2025-06-28,Pediatrics,I21.9,Dr. Murugan,Out-of-Pocket,14224.29,Pending Assessment,2025-07-12,No,14
+1022,Arun Kumar,2025-03-25,Oncology,E11.9,Dr. Rajesh,HDFC Ergo,18191.65,Critical,,Yes,356
+1076,Anitha Raj,2025-06-12,ER,I21.9,Dr. Murugan,LIC,45335.11,Recovering,,Yes,277
+1081,Sneha Kapoor,2025-10-15,Neurology,C34.9,Dr. Rajesh,LIC,5585.09,Recovering,2025-10-26,No,11
+1001,Vijay Sethupathi,2025-03-13,Pediatrics,I21.9,Dr. Rajesh,LIC,8847.88,Stable,2025-03-24,No,11
+1046,Anitha Raj,2025-07-30,Pediatrics,J45.9,Dr. Shalini,Out-of-Pocket,14354.88,Critical,2025-08-12,No,13
+1048,Sanjay Viswanathan,2025-09-28,Oncology,E11.9,Dr. Murugan,Out-of-Pocket,6193.95,Recovering,2025-10-03,No,5
+1026,Karthik Raja,2025-01-05,Pediatrics,I21.9,Dr. Shalini,Star Health,13164.59,Recovering,2025-01-12,No,7
+1058,Anitha Raj,2025-04-28,Neurology,G40.9,Dr. Aditi,LIC,31236.87,Recovering,2025-05-09,No,11
+1004,Anitha Raj,2025-11-21,Oncology,I21.9,Dr. Aditi,Out-of-Pocket,23964.1,Pending Assessment,2025-11-28,No,7
+1011,Priya Sharma,2025-08-31,Cardiology,C34.9,Dr. Shalini,Star Health,45170.23,Stable,2025-09-05,No,5
+1031,Rohan Gupta,2025-04-02,Pediatrics,I21.9,Dr. Shalini,Star Health,41784.96,Recovering,2025-04-14,No,12
+1100,Sanjay Viswanathan,2025-01-28,Neurology,I21.9,Dr. Murugan,LIC,20381.78,Stable,2025-02-06,No,9
+1035,Rohan Gupta,2025-10-31,Oncology,I21.9,Dr. Murugan,Star Health,16674.05,Critical,2025-11-04,No,4
+1015,Anitha Raj,2025-01-22,Oncology,J45.9,Dr. Aditi,Out-of-Pocket,22086.16,Critical,2025-02-02,No,11
+1011,Sneha Kapoor,2025-03-28,ER,G40.9,Dr. Vikram,Star Health,31563.27,Pending Assessment,2025-03-31,No,3
+1014,Priya Sharma,2025-01-08,Oncology,G40.9,Dr. Vikram,Out-of-Pocket,17062.86,Stable,2025-01-12,No,4
+1071,Sneha Kapoor,2025-05-03,Oncology,I21.9,Dr. Vikram,HDFC Ergo,33086.7,Recovering,2025-05-08,No,5
+1064,Anitha Raj,2025-09-29,Pediatrics,E11.9,Dr. Aditi,Star Health,23423.52,Stable,2025-10-12,No,13
+1029,Sanjay Viswanathan,2025-08-31,Cardiology,G40.9,Dr. Rajesh,LIC,29842.12,Recovering,2025-09-06,No,6
+1072,Anitha Raj,2025-11-04,ER,G40.9,Dr. Shalini,HDFC Ergo,24625.69,Critical,2025-11-07,No,3
+1059,Rohan Gupta,2025-06-17,Oncology,J45.9,Dr. Vikram,LIC,18250.96,Stable,2025-06-19,No,2
+1050,Rohan Gupta,2025-07-27,Cardiology,I21.9,Dr. Shalini,HDFC Ergo,47680.4,Recovering,2025-08-10,No,14
+1025,Rohan Gupta,2025-10-07,Cardiology,E11.9,Dr. Vikram,HDFC Ergo,39362.26,Pending Assessment,2025-10-20,No,13
+1095,Vijay Sethupathi,2025-03-28,Oncology,C34.9,Dr. Vikram,Star Health,11305.09,Stable,2025-04-01,No,4
+1087,Deepa Nair,2025-07-02,Cardiology,E11.9,Dr. Vikram,HDFC Ergo,44081.06,Recovering,2025-07-07,No,5
+1088,Rohan Gupta,2025-07-20,Oncology,J45.9,Dr. Vikram,HDFC Ergo,26934.4,Stable,2025-07-24,No,4
+1006,Rohan Gupta,2025-07-31,Oncology,J45.9,Dr. Murugan,Star Health,45254.85,Recovering,2025-08-14,No,14
+1055,Sneha Kapoor,2025-08-29,ER,I21.9,Dr. Rajesh,HDFC Ergo,40993.49,Stable,2025-09-09,No,11
+1018,Priya Sharma,2025-07-12,Oncology,J45.9,Dr. Shalini,LIC,24134.61,Critical,2025-07-25,No,13
+1087,Vijay Sethupathi,2025-05-21,ER,G40.9,Dr. Rajesh,LIC,6011.12,Stable,2025-06-02,No,12
+1037,Arun Kumar,2025-12-19,Oncology,J45.9,Dr. Aditi,Out-of-Pocket,17090.48,Stable,2025-12-22,No,3
+1070,Vijay Sethupathi,2025-10-02,Pediatrics,C34.9,Dr. Rajesh,LIC,29373.54,Stable,,Yes,165
+1097,Deepa Nair,2025-09-30,ER,G40.9,Dr. Aditi,HDFC Ergo,33506.52,Recovering,2025-10-10,No,10
+1025,Vijay Sethupathi,2025-10-20,Pediatrics,G40.9,Dr. Rajesh,Out-of-Pocket,16604.95,Stable,2025-10-24,No,4
+1003,Sneha Kapoor,2025-10-22,Pediatrics,J45.9,Dr. Rajesh,Star Health,11271.02,Recovering,2025-11-05,No,14
+1089,Arun Kumar,2025-06-21,Oncology,G40.9,Dr. Aditi,Out-of-Pocket,42571.86,Stable,2025-06-23,No,2
+1054,Karthik Raja,2025-07-07,ER,J45.9,Dr. Shalini,Out-of-Pocket,49298.1,Stable,2025-07-09,No,2
+1018,Priya Sharma,2025-02-09,Neurology,J45.9,Dr. Shalini,HDFC Ergo,28656.06,Stable,2025-02-10,No,1
+1085,Arun Kumar,2025-09-21,Pediatrics,C34.9,Dr. Murugan,LIC,12725.57,Critical,2025-10-04,No,13
+1034,Arun Kumar,2025-09-29,Pediatrics,I21.9,Dr. Murugan,HDFC Ergo,17253.83,Stable,2025-10-03,No,4
+1046,Priya Sharma,2025-06-29,Pediatrics,E11.9,Dr. Murugan,LIC,5827.58,Recovering,2025-07-09,No,10
+1044,Anitha Raj,2025-07-21,Oncology,I21.9,Dr. Aditi,HDFC Ergo,46143.45,Critical,,Yes,238
+1066,Priya Sharma,2025-04-11,Neurology,J45.9,Dr. Aditi,Star Health,10298.8,Recovering,2025-04-25,No,14
+1011,Sneha Kapoor,2025-08-31,ER,E11.9,Dr. Vikram,Out-of-Pocket,30943.24,Recovering,2025-09-11,No,11
+1047,Arun Kumar,2025-07-05,Oncology,E11.9,Dr. Rajesh,Star Health,17332.48,Recovering,2025-07-12,No,7
+1090,Meera Krishnan,2025-03-05,Cardiology,J45.9,Dr. Aditi,LIC,29938.01,Recovering,2025-03-17,No,12
+1036,Deepa Nair,2025-12-03,Neurology,I21.9,Dr. Vikram,Out-of-Pocket,34313.92,Pending Assessment,2025-12-13,No,10
+1080,Karthik Raja,2025-12-28,Pediatrics,J45.9,Dr. Rajesh,LIC,42338.38,Stable,2026-01-04,No,7
+1062,Arun Kumar,2025-06-10,Oncology,G40.9,Dr. Rajesh,Out-of-Pocket,14288.96,Stable,2025-06-23,No,13
+1059,Vijay Sethupathi,2025-02-28,Oncology,E11.9,Dr. Vikram,LIC,5494.81,Critical,2025-03-07,No,7
+1022,Sneha Kapoor,2025-11-12,Oncology,I21.9,Dr. Vikram,Out-of-Pocket,11159.85,Recovering,2025-11-20,No,8
+1067,Vijay Sethupathi,2025-07-13,Oncology,I21.9,Dr. Vikram,HDFC Ergo,45500.84,Critical,2025-07-14,No,1
+1022,Meera Krishnan,2025-02-25,Cardiology,G40.9,Dr. Vikram,Out-of-Pocket,44325.05,Critical,2025-03-07,No,10
+1055,Priya Sharma,2025-01-02,Oncology,C34.9,Dr. Vikram,HDFC Ergo,31883.59,Stable,2025-01-15,No,13
+1004,Rohan Gupta,2025-07-15,ER,J45.9,Dr. Vikram,LIC,32023.26,Stable,2025-07-25,No,10
+1070,Vijay Sethupathi,2025-10-09,Neurology,E11.9,Dr. Shalini,Out-of-Pocket,34926.65,Recovering,2025-10-17,No,8
+1013,Priya Sharma,2025-10-06,Pediatrics,J45.9,Dr. Shalini,LIC,12891.71,Recovering,2025-10-10,No,4
+1093,Deepa Nair,2025-05-23,Pediatrics,G40.9,Dr. Murugan,Star Health,46148.54,Recovering,2025-05-27,No,4
+1036,Sanjay Viswanathan,2025-07-17,Neurology,J45.9,Dr. Aditi,Out-of-Pocket,23844.67,Critical,2025-07-21,No,4
+1064,Meera Krishnan,2025-02-02,Cardiology,J45.9,Dr. Shalini,Out-of-Pocket,22241.23,Recovering,2025-02-08,No,6
+1053,Karthik Raja,2025-10-26,ER,J45.9,Dr. Rajesh,LIC,28351.3,Critical,2025-11-02,No,7
+1072,Deepa Nair,2025-10-17,Cardiology,G40.9,Dr. Rajesh,Star Health,7113.47,Stable,2025-10-23,No,6
+1085,Meera Krishnan,2025-06-17,ER,J45.9,Dr. Aditi,Star Health,12482.75,Recovering,2025-06-18,No,1
+1049,Sneha Kapoor,2025-11-02,Neurology,J45.9,Dr. Aditi,LIC,38211.51,Critical,2025-11-14,No,12
+1096,Karthik Raja,2025-09-16,Cardiology,J45.9,Dr. Murugan,LIC,8725.94,Stable,2025-09-24,No,8
+1034,Meera Krishnan,2025-02-22,ER,J45.9,Dr. Rajesh,Out-of-Pocket,32141.84,Stable,2025-03-07,No,13
+1097,Karthik Raja,2025-06-21,Oncology,E11.9,Dr. Vikram,HDFC Ergo,16040.71,Critical,2025-07-01,No,10
+1082,Meera Krishnan,2025-05-02,ER,E11.9,Dr. Shalini,LIC,22518.3,Stable,2025-05-13,No,11
+1058,Sneha Kapoor,2025-11-11,Cardiology,C34.9,Dr. Rajesh,Out-of-Pocket,17991.22,Stable,2025-11-24,No,13
+1083,Anitha Raj,2025-02-08,Oncology,J45.9,Dr. Vikram,Out-of-Pocket,21005.27,Stable,2025-02-15,No,7
+1062,Anitha Raj,2025-03-29,Oncology,I21.9,Dr. Rajesh,LIC,37357.07,Stable,2025-04-04,No,6
+1076,Anitha Raj,2025-09-24,ER,G40.9,Dr. Murugan,Out-of-Pocket,18370.48,Stable,2025-09-30,No,6
+1040,Sanjay Viswanathan,2025-11-29,Neurology,G40.9,Dr. Vikram,Star Health,30488.21,Critical,2025-12-04,No,5
+1084,Anitha Raj,2025-09-21,Oncology,J45.9,Dr. Shalini,LIC,26422.27,Critical,2025-09-27,No,6
+1093,Arun Kumar,2025-06-11,ER,E11.9,Dr. Vikram,LIC,34865.2,Stable,2025-06-23,No,12
+1022,Karthik Raja,2025-05-23,Oncology,I21.9,Dr. Vikram,HDFC Ergo,47157.34,Critical,2025-06-01,No,9
+1082,Rohan Gupta,2025-03-26,Cardiology,G40.9,Dr. Murugan,Star Health,37965.74,Stable,2025-04-05,No,10
+1039,Vijay Sethupathi,2025-10-07,Cardiology,E11.9,Dr. Vikram,LIC,14672.32,Stable,2025-10-16,No,9
+1012,Sneha Kapoor,2025-08-20,Pediatrics,C34.9,Dr. Vikram,Star Health,6403.24,Critical,,Yes,208
+1052,Meera Krishnan,2025-01-13,ER,E11.9,Dr. Murugan,HDFC Ergo,16801.88,Critical,2025-01-21,No,8
+1086,Deepa Nair,2025-07-11,Pediatrics,C34.9,Dr. Murugan,HDFC Ergo,31778.51,Stable,2025-07-21,No,10
+1006,Sneha Kapoor,2025-04-20,Cardiology,G40.9,Dr. Shalini,Star Health,7314.16,Recovering,2025-04-29,No,9
+1073,Anitha Raj,2025-05-26,Pediatrics,G40.9,Dr. Rajesh,LIC,27336.48,Recovering,2025-06-08,No,13
+1038,Karthik Raja,2025-12-21,Pediatrics,E11.9,Dr. Rajesh,Star Health,31857.93,Recovering,2025-12-31,No,10
+1074,Vijay Sethupathi,2025-06-04,Neurology,C34.9,Dr. Rajesh,HDFC Ergo,20040.98,Stable,2025-06-12,No,8
+1046,Anitha Raj,2025-11-20,Pediatrics,G40.9,Dr. Shalini,Out-of-Pocket,39691.05,Stable,2025-11-28,No,8
+1018,Arun Kumar,2025-01-23,Neurology,C34.9,Dr. Rajesh,LIC,9796.92,Critical,2025-01-24,No,1
+1002,Sneha Kapoor,2025-10-09,ER,E11.9,Dr. Rajesh,LIC,8381.2,Critical,2025-10-19,No,10
+1045,Deepa Nair,2025-07-12,Cardiology,J45.9,Dr. Murugan,Star Health,37768.49,Stable,,Yes,247
+1028,Vijay Sethupathi,2025-12-03,Cardiology,I21.9,Dr. Murugan,HDFC Ergo,27297.11,Critical,2025-12-08,No,5
+1005,Sanjay Viswanathan,2025-01-11,Oncology,J45.9,Dr. Shalini,LIC,35978.11,Critical,2025-01-15,No,4
+1043,Priya Sharma,2025-02-09,ER,J45.9,Dr. Rajesh,HDFC Ergo,24567.23,Stable,2025-02-11,No,2
+1087,Rohan Gupta,2025-06-01,Neurology,J45.9,Dr. Vikram,LIC,16088.09,Critical,,Yes,288
+1067,Karthik Raja,2025-10-26,Oncology,E11.9,Dr. Shalini,Out-of-Pocket,41859.6,Critical,2025-10-29,No,3
+1093,Karthik Raja,2025-06-21,Oncology,J45.9,Dr. Aditi,LIC,40973.71,Critical,2025-06-25,No,4
+1022,Sanjay Viswanathan,2025-03-04,Cardiology,G40.9,Dr. Vikram,LIC,36261.34,Stable,,Yes,377
+1076,Sanjay Viswanathan,2025-11-25,Pediatrics,E11.9,Dr. Rajesh,Out-of-Pocket,17246.53,Stable,2025-12-02,No,7
+1006,Karthik Raja,2025-02-01,Oncology,C34.9,Dr. Vikram,LIC,31560.38,Recovering,2025-02-11,No,10
+1069,Sneha Kapoor,2025-12-25,Cardiology,I21.9,Dr. Shalini,HDFC Ergo,21243.83,Pending Assessment,2026-01-03,No,9
+1011,Deepa Nair,2025-09-13,ER,G40.9,Dr. Murugan,LIC,9121.19,Recovering,2025-09-15,No,2
+1034,Arun Kumar,2025-02-06,ER,E11.9,Dr. Murugan,Out-of-Pocket,46279.11,Recovering,2025-02-09,No,3
+1083,Sneha Kapoor,2025-04-05,Cardiology,G40.9,Dr. Aditi,Star Health,11156.84,Stable,2025-04-09,No,4
+1062,Arun Kumar,2025-12-13,ER,G40.9,Dr. Aditi,HDFC Ergo,47760.68,Stable,2025-12-23,No,10
+1036,Sanjay Viswanathan,2025-08-25,Cardiology,I21.9,Dr. Vikram,Star Health,25070.26,Pending Assessment,2025-08-26,No,1
+1002,Anitha Raj,2025-03-05,Neurology,E11.9,Dr. Rajesh,LIC,47782.14,Stable,2025-03-19,No,14
+1016,Arun Kumar,2025-04-30,Pediatrics,I21.9,Dr. Shalini,HDFC Ergo,12019.75,Stable,2025-05-05,No,5
+1002,Priya Sharma,2025-01-29,Pediatrics,I21.9,Dr. Rajesh,Out-of-Pocket,5926.3,Recovering,2025-02-04,No,6
